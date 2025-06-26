@@ -12,9 +12,10 @@ API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID"))
 MEMORY_FILE = "chat_memory.json"
+MEMORY_FILE2 = "https://raw.githubusercontent.com/AashooSharma/telethon_vick-bot/refs/heads/main/chat_memory.json"
 
 # Load or initialize memory
-if os.path.exists(MEMORY_FILE):
+if os.path.exists(MEMORY_FILE2):
     with open(MEMORY_FILE, "r", encoding="utf-8") as f:
         memory = json.load(f)
 else:
