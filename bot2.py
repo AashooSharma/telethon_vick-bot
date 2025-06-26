@@ -139,6 +139,31 @@ async def remove_reply(event):
     else:
         await event.respond("❌ Reply not found.")
 
+
+# /cmd command (run termux command and send output)
+@bot.on(events.NewMessage(pattern=r"^/cmd (.+)"))
+async def cmd_terminal(event):
+    if event.sender_id != OWNER_ID:
+        return await event.respond("❌ You're not authorized to run shell commands.")
+    
+    command = event.pattern_match.group(1)
+    output_file = "output.txt"
+
+    try:
+        result = subprocess.check_output(command, shell=True, stderr=subprocess.STDOUT, timeout=15, universal_newlines=True)
+    except subprocess.CalledProcessError as e:
+        result = e.output
+    except subprocess.TimeoutExpired:
+        result = "⏱️ Command timed out."
+
+    # Write result to file
+    with open(output_file, "w") as f:
+        f.write(result if result else "✅ Command ran with no output.")
+
+    await bot.send_file(event.chat_id, output_file, caption=f"📁 Output of:\n`{command}`", force_document=True)
+    os.remove(output_file)
+
+
 # Learn and respond logic
 @bot.on(events.NewMessage)
 async def handle_message(event):
