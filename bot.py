@@ -1,11 +1,11 @@
 import os
-import subprocess
 import json
 import random
+import subprocess
 from telethon import TelegramClient, events
 from dotenv import load_dotenv
 
-# Load environment variables
+# Load .env secrets
 load_dotenv()
 API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
@@ -20,17 +20,12 @@ if os.path.exists(MEMORY_FILE):
 else:
     memory = {}
 
+# Save memory to file
 def save_memory():
     with open(MEMORY_FILE, "w", encoding="utf-8") as f:
         json.dump(memory, f, indent=2, ensure_ascii=False)
 
-def get_key_from_event(event):
-    if event.message.sticker:
-        return f"sticker:{event.message.file.id}"
-    elif event.message.message:
-        return f"text:{event.message.message.strip().lower()}"
-    return None
-
+# Helper: generate key from message or sticker
 def get_key_from_message(msg):
     if msg.sticker:
         return f"sticker:{msg.file.id}"
@@ -38,45 +33,53 @@ def get_key_from_message(msg):
         return f"text:{msg.message.strip().lower()}"
     return None
 
-# Initialize bot
-bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
+# Helper: generate key from event
+def get_key_from_event(event):
+    if event.message.sticker:
+        return f"sticker:{event.message.file.id}"
+    elif event.message.message:
+        return f"text:{event.message.message.strip().lower()}"
+    return None
 
-# /start command
-@bot.on(events.NewMessage(pattern='/start'))
+# Start bot
+bot = TelegramClient("bot", API_ID, API_HASH).start(bot_token=BOT_TOKEN)
+
+# Command: /start
+@bot.on(events.NewMessage(pattern="/start"))
 async def start(event):
     sender = await event.get_sender()
     await event.respond(
         f"👋 Hello {sender.first_name}!\n\n"
-        "I am your helpful Telethon Vick-Bot.\n"
-        "Type /help to learn how to use me."
+        "I'm your memory-based Telegram bot!\n"
+        "Type /help for instructions."
     )
 
-# /help command
-@bot.on(events.NewMessage(pattern='/help'))
-async def help_command(event):
+# Command: /help
+@bot.on(events.NewMessage(pattern="/help"))
+async def help_cmd(event):
     await event.respond(
-        "📖 *Bot Usage Guide:*\n\n"
-        "✅ /start – Intro\n"
-        "✅ /help – Show help\n"
-        "✅ /update – Pull latest code from GitHub (owner only)\n"
-        "✅ /remove_msg – Delete message & all replies (owner only)\n"
-        "✅ /remove_reply – Delete a specific reply (owner only)\n"
-        "🧠 Reply to messages or stickers with text/stickers – I’ll remember!"
+        "**📚 Bot Help**\n\n"
+        "🔹 Reply to a message/sticker with text or sticker → I’ll learn it\n"
+        "🔹 I’ll reply randomly when I’ve learned multiple replies\n"
+        "🔸 **Commands:**\n"
+        "`/update` – Pull latest code (owner only)\n"
+        "`/remove_msg` – Delete full message from memory (reply to msg)\n"
+        "`/remove_reply` – Delete specific reply (reply + type text to remove)"
     )
 
-# /update command
-@bot.on(events.NewMessage(pattern='/update'))
-async def update_command(event):
+# Command: /update
+@bot.on(events.NewMessage(pattern="/update"))
+async def update(event):
     if event.sender_id != OWNER_ID:
-        return await event.respond("🚫 Not authorized.")
-    await event.respond("🔄 Pulling latest updates from GitHub...")
+        return await event.respond("🚫 You are not authorized to update the bot.")
+    await event.respond("🔄 Pulling latest code and restarting...")
     subprocess.Popen(["python3", "updater.py"])
 
-# /remove_msg command
-@bot.on(events.NewMessage(pattern='/remove_msg'))
+# Command: /remove_msg
+@bot.on(events.NewMessage(pattern="/remove_msg"))
 async def remove_msg(event):
     if event.sender_id != OWNER_ID or not event.is_reply:
-        return await event.respond("❌ Reply to the message or sticker you want to delete.")
+        return await event.respond("❌ Please reply to the message/sticker you want to remove.")
     msg = await event.get_reply_message()
     key = get_key_from_message(msg)
     if key and key in memory:
@@ -84,26 +87,24 @@ async def remove_msg(event):
         save_memory()
         await event.respond(f"🗑️ Removed all replies for: `{key}`")
     else:
-        await event.respond("❌ Not found in memory.")
+        await event.respond("❌ Message not found in memory.")
 
-# /remove_reply command
-@bot.on(events.NewMessage(pattern='/remove_reply'))
+# Command: /remove_reply
+@bot.on(events.NewMessage(pattern="/remove_reply"))
 async def remove_reply(event):
     if event.sender_id != OWNER_ID or not event.is_reply:
-        return await event.respond("❌ Reply to the original message and type the reply to delete.")
-    
-    original_msg = await event.get_reply_message()
-    key = get_key_from_message(original_msg)
+        return await event.respond("❌ Reply to the message and type the reply to remove.")
+    msg = await event.get_reply_message()
+    reply_text = event.message.message.strip().lower()
+    key = get_key_from_message(msg)
     if not key or key not in memory:
-        return await event.respond("❌ Message not found in memory.")
-
-    target_text = event.message.message.strip().lower() if event.message.message else None
-    if not target_text:
-        return await event.respond("❌ You must type the reply to remove.")
+        return await event.respond("❌ Original message not found in memory.")
 
     original_len = len(memory[key])
-    memory[key] = [x for x in memory[key] if not (x["type"] == "text" and x["data"].strip().lower() == target_text)]
-
+    memory[key] = [
+        x for x in memory[key]
+        if not (x["type"] == "text" and x["data"].strip().lower() == reply_text)
+    ]
     if len(memory[key]) < original_len:
         if not memory[key]:
             del memory[key]
@@ -112,36 +113,35 @@ async def remove_reply(event):
     else:
         await event.respond("❌ Reply not found.")
 
-# Learn and reply handler
+# Handler: learn & respond
 @bot.on(events.NewMessage)
-async def learn_and_reply(event):
-    if event.sender_id == bot.get_me().sender_id:
-        return  # Prevent self-reply
+async def handle_message(event):
+    # Skip own messages
+    if event.out:
+        return
 
     key = get_key_from_event(event)
 
-    # Learn if reply
+    # If it's a reply → learn
     if event.is_reply:
-        replied = await event.get_reply_message()
-        parent_key = get_key_from_message(replied)
-        if not parent_key:
-            return
+        replied_msg = await event.get_reply_message()
+        parent_key = get_key_from_message(replied_msg)
+        if parent_key:
+            if parent_key not in memory:
+                memory[parent_key] = []
 
-        if parent_key not in memory:
-            memory[parent_key] = []
+            if event.message.sticker:
+                entry = {"type": "sticker", "data": event.message.file.id}
+            elif event.message.message:
+                entry = {"type": "text", "data": event.message.message.strip()}
+            else:
+                return
 
-        if event.message.sticker:
-            new_entry = {"type": "sticker", "data": event.message.file.id}
-        elif event.message.message:
-            new_entry = {"type": "text", "data": event.message.message.strip()}
-        else:
-            return
+            if entry not in memory[parent_key]:
+                memory[parent_key].append(entry)
+                save_memory()
 
-        if new_entry not in memory[parent_key]:
-            memory[parent_key].append(new_entry)
-            save_memory()
-
-    # Respond to known messages
+    # If it's a known message/sticker → reply
     if key and key in memory:
         reply = random.choice(memory[key])
         if reply["type"] == "text":
@@ -150,5 +150,5 @@ async def learn_and_reply(event):
             await bot.send_file(event.chat_id, reply["data"])
 
 # Start the bot
-print("✅ Bot is running...")
+print("✅ Bot is running... Waiting for messages.")
 bot.run_until_disconnected()
