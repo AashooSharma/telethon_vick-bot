@@ -1,5 +1,7 @@
 # 🤖 Telethon Vick-Bot
 
+<img src="logo.jpg" alt="Logo" width="100%"  style="border-radius: 50%;">
+
 A smart and memory-enabled Telegram bot built using [Telethon](https://github.com/LonamiWebs/Telethon).  
 This bot **learns from message and sticker replies**, stores them in a local JSON database, and automatically replies with random responses it has learned — just like a mini AI bot!
 
