@@ -12,10 +12,9 @@ API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID"))
 MEMORY_FILE = "chat_memory.json"
-MEMORY_FILE2 = "https://raw.githubusercontent.com/AashooSharma/telethon_vick-bot/refs/heads/main/chat_memory.json"
 
 # Load or initialize memory
-if os.path.exists(MEMORY_FILE2):
+if os.path.exists(MEMORY_FILE):
     with open(MEMORY_FILE, "r", encoding="utf-8") as f:
         memory = json.load(f)
 else:
@@ -62,7 +61,8 @@ async def help_cmd(event):
         "🔸 **Commands:**\n"
         "`/update` – Pull latest code (owner only)\n"
         "`/remove_msg` – Delete full message from memory (reply to msg)\n"
-        "`/remove_reply` – Delete specific reply (reply + type text to remove)"
+        "`/remove_reply` – Delete specific reply (reply + type text to remove)\n"
+        "`/database` – Show memory statistics"
     )
 
 # /update command (admin only)
@@ -72,6 +72,34 @@ async def update(event):
         return await event.respond("🚫 You are not authorized to update the bot.")
     await event.respond("🔄 Pulling latest code and restarting...")
     subprocess.Popen(["python3", "updater.py"])
+
+# /database command
+@bot.on(events.NewMessage(pattern="/database"))
+async def database(event):
+    if event.sender_id != OWNER_ID:
+        return await event.respond("🚫 You are not authorized to use this command.")
+
+    total_keys = len(memory)
+    total_replies = 0
+    text_replies = 0
+    sticker_replies = 0
+
+    for replies in memory.values():
+        total_replies += len(replies)
+        for r in replies:
+            if r["type"] == "text":
+                text_replies += 1
+            elif r["type"] == "sticker":
+                sticker_replies += 1
+
+    msg = (
+        "📊 **Database Stats:**\n"
+        f"🧠 Learned Messages: `{total_keys}`\n"
+        f"💬 Total Replies: `{total_replies}`\n"
+        f"✏️ Text Replies: `{text_replies}`\n"
+        f"🎉 Sticker Replies: `{sticker_replies}`"
+    )
+    await event.respond(msg)
 
 # /remove_msg command
 @bot.on(events.NewMessage(pattern="/remove_msg"))
@@ -110,6 +138,31 @@ async def remove_reply(event):
         await event.respond("✅ Reply removed.")
     else:
         await event.respond("❌ Reply not found.")
+
+
+# /cmd command (run termux command and send output)
+@bot.on(events.NewMessage(pattern=r"^/cmd (.+)"))
+async def cmd_terminal(event):
+    if event.sender_id != OWNER_ID:
+        return await event.respond("❌ You're not authorized to run shell commands.")
+    
+    command = event.pattern_match.group(1)
+    output_file = "output.txt"
+
+    try:
+        result = subprocess.check_output(command, shell=True, stderr=subprocess.STDOUT, timeout=15, universal_newlines=True)
+    except subprocess.CalledProcessError as e:
+        result = e.output
+    except subprocess.TimeoutExpired:
+        result = "⏱️ Command timed out."
+
+    # Write result to file
+    with open(output_file, "w") as f:
+        f.write(result if result else "✅ Command ran with no output.")
+
+    await bot.send_file(event.chat_id, output_file, caption=f"📁 Output of:\n`{command}`", force_document=True)
+    os.remove(output_file)
+
 
 # Learn and respond logic
 @bot.on(events.NewMessage)
