@@ -140,6 +140,16 @@ async def remove_reply(event):
         await event.respond("❌ Reply not found.")
 
 
+@bot.on(events.NewMessage(pattern="/backup"))
+async def backup(event):
+    if event.sender_id != OWNER_ID:
+        return await event.respond("❌ You are not authorized to use this command.")
+
+    if os.path.exists(MEMORY_FILE):
+        await bot.send_file(OWNER_ID, MEMORY_FILE, caption="🧠 Bot database backup file")
+    else:
+        await event.respond("⚠️ No database file found.")
+
 # /cmd command (run termux command and send output)
 @bot.on(events.NewMessage(pattern=r"^/cmd (.+)"))
 async def cmd_terminal(event):
