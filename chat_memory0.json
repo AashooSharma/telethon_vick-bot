@@ -1,0 +1,3998 @@
+{
+  "text:hello": [
+    {
+      "type": "text",
+      "data": "Hello 👋🏻"
+    },
+    {
+      "type": "text",
+      "data": "Kya kar rahe ho"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQADogcAAsUGAVdrrblf-PmjPwI"
+    },
+    {
+      "type": "text",
+      "data": "Ha ji"
+    },
+    {
+      "type": "text",
+      "data": "Yes"
+    },
+    {
+      "type": "text",
+      "data": "Vc per aoo"
+    },
+    {
+      "type": "text",
+      "data": "Hi"
+    }
+  ],
+  "text:hello 👋🏻": [
+    {
+      "type": "text",
+      "data": "How are you"
+    }
+  ],
+  "text:hi": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADogcAAsUGAVdrrblf-PmjPwI"
+    },
+    {
+      "type": "text",
+      "data": "Hlo"
+    },
+    {
+      "type": "text",
+      "data": "Kesi ho"
+    }
+  ],
+  "sticker:CAADBQADogcAAsUGAVdrrblf-PmjPwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADogcAAsUGAVdrrblf-PmjPwI"
+    },
+    {
+      "type": "text",
+      "data": "Radhe Radhe 🙏"
+    },
+    {
+      "type": "text",
+      "data": "Kese ho AAP"
+    }
+  ],
+  "sticker:CAADBAADpA8AAu8GCFGDmsuoTTjYewI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADogcAAsUGAVdrrblf-PmjPwI"
+    }
+  ],
+  "text:/learn 200": [
+    {
+      "type": "text",
+      "data": "📚 Learning from last 200 messages..."
+    },
+    {
+      "type": "text",
+      "data": "✅ Learning complete!\n📘 Processed: 200\n🧠 New replies learned: 137"
+    }
+  ],
+  "text:😂😂😂math student ho kya?": [
+    {
+      "type": "text",
+      "data": "Haa q bio hona chaiye tha kya"
+    },
+    {
+      "type": "text",
+      "data": "Naa biology"
+    }
+  ],
+  "text:pta hai hme papa kya family ki v nhi sunti hogi....isliye to jiddi ho": [
+    {
+      "type": "text",
+      "data": "Ha hu"
+    }
+  ],
+  "text:pta nhi bechara ko kahi heart attack na a jaye": [
+    {
+      "type": "text",
+      "data": "😂😂😂math student ho kya?"
+    }
+  ],
+  "text:jalebi mai khati nhi ha gusse me to papa ki baat bhi nhi manti to ye kon h🤔🤔": [
+    {
+      "type": "text",
+      "data": "Pta hai hme papa kya family ki v nhi sunti hogi....isliye to jiddi ho"
+    }
+  ],
+  "text:jinda h na🤔🤔": [
+    {
+      "type": "text",
+      "data": "Pta nhi bechara ko kahi heart attack na a jaye"
+    }
+  ],
+  "text:usko kuchh kuchh ho rha hai": [
+    {
+      "type": "text",
+      "data": "Jinda h na🤔🤔"
+    }
+  ],
+  "text:haa haa rhne do...waise v tum jiddi ho ...bina jalebi ke maan nhi skti rhne do tum": [
+    {
+      "type": "text",
+      "data": "Jalebi Mai khati nhi ha gusse me to papa ki baat bhi nhi Manti to ye kon h🤔🤔"
+    }
+  ],
+  "text:to mai kya ku": [
+    {
+      "type": "text",
+      "data": "Usko kuchh kuchh ho rha hai"
+    }
+  ],
+  "text:mere bare me topic mt liya kro": [
+    {
+      "type": "text",
+      "data": "To kya laaye tere baare me"
+    }
+  ],
+  "text:kbhi nhi itni pairvi kyu kr rhe h aap log": [
+    {
+      "type": "text",
+      "data": "Haa haa rhne do...waise v tum jiddi ho ...bina jalebi ke maan nhi skti rhne do tum"
+    }
+  ],
+  "text:😑😑😑": [
+    {
+      "type": "text",
+      "data": "hi sexy"
+    }
+  ],
+  "text:kamina bol rha h uski baate mujge hurt krti h jab wo block krti h wo mujhe": [
+    {
+      "type": "text",
+      "data": "To Mai kya ku"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQADfg4AAua28FdhVuylrnXkWQI"
+    }
+  ],
+  "text:block ka drd hai to unblock kr do n": [
+    {
+      "type": "text",
+      "data": "Kbhi nhi itni pairvi kyu kr rhe h aap log"
+    },
+    {
+      "type": "text",
+      "data": "Kyu"
+    },
+    {
+      "type": "text",
+      "data": "Chup"
+    },
+    {
+      "type": "text",
+      "data": "Ye to bot v branded ka bhai nikla"
+    }
+  ],
+  "text:kya": [
+    {
+      "type": "text",
+      "data": "kamina bol rha h uski baate mujge hurt krti h jab wo block krti h wo mujhe"
+    },
+    {
+      "type": "text",
+      "data": "😒😒😒😒😒"
+    },
+    {
+      "type": "text",
+      "data": "Block ka drd hai to unblock kr do n"
+    },
+    {
+      "type": "text",
+      "data": "Kya kar rhi ho"
+    },
+    {
+      "type": "text",
+      "data": "Ab itni samajdar lrki se hm bole g"
+    },
+    {
+      "type": "text",
+      "data": "Kuch n"
+    }
+  ],
+  "text:👋🏻🙂": [
+    {
+      "type": "text",
+      "data": "Aao babu"
+    }
+  ],
+  "text:uski baato se": [
+    {
+      "type": "text",
+      "data": "Kya"
+    }
+  ],
+  "text:pgl ho kya🤔": [
+    {
+      "type": "text",
+      "data": "uski baato se"
+    }
+  ],
+  "text:ab tum n batau ayesa kyu": [
+    {
+      "type": "text",
+      "data": "Kya"
+    }
+  ],
+  "text:ha to kya kru": [
+    {
+      "type": "text",
+      "data": "Ab tum n batau ayesa kyu"
+    }
+  ],
+  "text:achcha dard ho rha h ky": [
+    {
+      "type": "text",
+      "data": "Pgl ho kya🤔"
+    }
+  ],
+  "text:btana jruri nhi samjhti": [
+    {
+      "type": "text",
+      "data": "achcha dard ho rha h ky"
+    }
+  ],
+  "text:waah block kr ke gd nyt v bolti ho kya baat hai😁😁😁": [
+    {
+      "type": "text",
+      "data": "Ha to kya kru"
+    }
+  ],
+  "sticker:BAADBQADngsAAlavyVQsnND0fzQ55gI": [
+    {
+      "type": "sticker",
+      "data": "BAADBQAD-wwAArkuyFT19NJVhBCYngI"
+    }
+  ],
+  "text:ky kiya usne": [
+    {
+      "type": "text",
+      "data": "Btana jruri nhi samjhti"
+    }
+  ],
+  "text:bss kro \n\ngood night": [
+    {
+      "type": "text",
+      "data": "Waah block kr ke gd nyt v bolti ho kya baat hai😁😁😁"
+    },
+    {
+      "type": "text",
+      "data": "ky kiya usne"
+    },
+    {
+      "type": "text",
+      "data": "😒😒😒😒😒"
+    }
+  ],
+  "text:jaau phr khel lo": [
+    {
+      "type": "text",
+      "data": "Bas khel liya"
+    }
+  ],
+  "text:aa gya game khel rha tha": [
+    {
+      "type": "text",
+      "data": "Jaau phr khel lo"
+    }
+  ],
+  "text:hehe'": [
+    {
+      "type": "text",
+      "data": "Bdhiya hai phr kuch or bhejo 😁😁😁"
+    }
+  ],
+  "text:bhkk😏😏": [
+    {
+      "type": "text",
+      "data": "😒😒😒😒😒"
+    }
+  ],
+  "text:aao vc": [
+    {
+      "type": "text",
+      "data": "Aa gya game khel rha tha"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQADyg4AAnaoMFeY-5BZO9Qr-wI"
+    }
+  ],
+  "text:😒😒😒😒😒": [
+    {
+      "type": "text",
+      "data": "Bhkk😏😏"
+    }
+  ],
+  "text:q sorry kya hua": [
+    {
+      "type": "text",
+      "data": "Kuch na"
+    }
+  ],
+  "text:wrna kya block to kr hi diiya iske aage kya hi krogii 😭😭😭😭😭😭": [
+    {
+      "type": "text",
+      "data": "Bss kro \n\nGood night"
+    }
+  ],
+  "text:ye kiska mood bna rhe ho": [
+    {
+      "type": "text",
+      "data": "hehe'"
+    }
+  ],
+  "sticker:BAADBQAD2A4AAhlK0VSq1A0VeWeo1gI": [
+    {
+      "type": "text",
+      "data": "Ye kiska mood bna rhe ho"
+    }
+  ],
+  "text:sorry": [
+    {
+      "type": "text",
+      "data": "Q sorry kya hua"
+    }
+  ],
+  "text:chup kro last baar bol rhi warna": [
+    {
+      "type": "text",
+      "data": "Wrna kya block to kr hi diiya iske aage kya hi krogii 😭😭😭😭😭😭"
+    }
+  ],
+  "text:haa to acha lrka hai chance to do use😁🤭🫣🤭": [
+    {
+      "type": "text",
+      "data": "Sorry"
+    }
+  ],
+  "text:me drama krta hu aise hi lgege aap ko me marr jaunga na phir bhi aap ko yakeen nhi hoga😭😭😭😭❤️": [
+    {
+      "type": "text",
+      "data": "Chup kro last baar bol rhi warna"
+    }
+  ],
+  "text:mai jiski baat kr rhi usiko boli": [
+    {
+      "type": "text",
+      "data": "Haa to acha lrka hai chance to do use😁🤭🫣🤭"
+    }
+  ],
+  "text:drama nhi": [
+    {
+      "type": "text",
+      "data": "Me drama krta hu aise hi lgege aap ko me marr jaunga na phir bhi aap ko yakeen nhi hoga😭😭😭😭❤️"
+    }
+  ],
+  "text:ky pta sach bhi to nhi bola": [
+    {
+      "type": "text",
+      "data": "Kya"
+    }
+  ],
+  "text:htt pgli hm serious n hote choti choti baato ko": [
+    {
+      "type": "text",
+      "data": "icu"
+    }
+  ],
+  "text:haa to tum.sbhi lrko ko q boli": [
+    {
+      "type": "text",
+      "data": "Mai jiski baat kr rhi usiko boli"
+    }
+  ],
+  "text:are mazak kiye yarr": [
+    {
+      "type": "text",
+      "data": "Htt pgli hm serious n hote choti choti baato ko"
+    }
+  ],
+  "text:@user_dead_012 are nhi bolenge aaj": [
+    {
+      "type": "text",
+      "data": "Olee olee 🌚🌚👀"
+    }
+  ],
+  "text:kis jamane me ho ki tumhare liye wo mr skta😂🫣🙏": [
+    {
+      "type": "text",
+      "data": "😂😂tbhi to boli mar jao aaj mujhse ye drama kl koi aur"
+    }
+  ],
+  "text:@humm_tuum msg padho to ise hm kb jor rhe": [
+    {
+      "type": "text",
+      "data": "Are mazak kiye yarr"
+    }
+  ],
+  "text:okk sb ek jaise n hoti": [
+    {
+      "type": "text",
+      "data": "Haa to tum.sbhi lrko ko q boli"
+    }
+  ],
+  "text:phle se mara pada hu ab kitna maarpgii😭😭😭😭😭😭❤️👀": [
+    {
+      "type": "text",
+      "data": "Drama nhi"
+    }
+  ],
+  "text:jhuth bolne ka shauk nhi": [
+    {
+      "type": "text",
+      "data": "ky pta sach bhi to nhi bola"
+    }
+  ],
+  "text:hm v dekhte h lrkiyo ko...kya kya krti h": [
+    {
+      "type": "text",
+      "data": "Okk sb ek jaise n hoti"
+    }
+  ],
+  "text:mar jao": [
+    {
+      "type": "text",
+      "data": "Kis jamane me ho ki tumhare liye wo mr skta😂🫣🙏"
+    },
+    {
+      "type": "text",
+      "data": "Phle se Mara pada hu ab kitna maarpgii😭😭😭😭😭😭❤️👀"
+    }
+  ],
+  "text:ky pta sach thodi bologe": [
+    {
+      "type": "text",
+      "data": "Jhuth bolne ka shauk nhi"
+    }
+  ],
+  "text:ab bsss bhi kro jaan. leke maanogi merit ab😒😒😒": [
+    {
+      "type": "text",
+      "data": "Mar jao"
+    }
+  ],
+  "text:achcha aapke kitne hai": [
+    {
+      "type": "text",
+      "data": "Kisike dil se khelne ka hamara shauk nhi h"
+    },
+    {
+      "type": "text",
+      "data": "Koi na ho tbhi accha h"
+    },
+    {
+      "type": "text",
+      "data": "Vick bna diya"
+    }
+  ],
+  "text:nhi": [
+    {
+      "type": "text",
+      "data": "Hm v dekhte h lrkiyo ko...kya kya krti h"
+    }
+  ],
+  "text:koi na ho tbhi accha h": [
+    {
+      "type": "text",
+      "data": "ky pta sach thodi bologe"
+    }
+  ],
+  "text:itne bhi gire din nhi aaye h": [
+    {
+      "type": "text",
+      "data": "Ab bsss bhi kro jaan. Leke maanogi merit ab😒😒😒"
+    }
+  ],
+  "text:vick bna diya": [
+    {
+      "type": "text",
+      "data": "achcha"
+    }
+  ],
+  "text:chal juthi...": [
+    {
+      "type": "text",
+      "data": "Nhi"
+    }
+  ],
+  "text:q tum v yahi krti ho kya jo bahut dekhi ho😂😁😁": [
+    {
+      "type": "text",
+      "data": "Itne bhi gire din nhi aaye h"
+    }
+  ],
+  "text:tg pr har ladka ashiq hi hota h": [
+    {
+      "type": "text",
+      "data": "achcha aapke kitne hai"
+    }
+  ],
+  "text:nhii": [
+    {
+      "type": "text",
+      "data": "Chal juthi..."
+    },
+    {
+      "type": "text",
+      "data": "anaconda"
+    },
+    {
+      "type": "text",
+      "data": "Kyu"
+    },
+    {
+      "type": "text",
+      "data": "Kahe nhi"
+    }
+  ],
+  "text:phr to tum 200 saal jiyo🫣😁😁": [
+    {
+      "type": "text",
+      "data": "Nhii"
+    }
+  ],
+  "text:pr lrkiyo se km hote h": [
+    {
+      "type": "text",
+      "data": "Nhii"
+    }
+  ],
+  "text:ky mtlb kitno k dekha": [
+    {
+      "type": "text",
+      "data": "Tg pr Har ladka ashiq hi hota h"
+    }
+  ],
+  "text:aise drame ladko ko bhut aate h": [
+    {
+      "type": "text",
+      "data": "Pr lrkiyo se km hote h"
+    },
+    {
+      "type": "text",
+      "data": "ladkiyan kam karti hai"
+    }
+  ],
+  "text:kbhi nhi mar gyi tb bhi nhi": [
+    {
+      "type": "text",
+      "data": "Phr to tum 200 saal jiyo🫣😁😁"
+    },
+    {
+      "type": "text",
+      "data": "😭😭😭😭😭😭😭😭❤️"
+    }
+  ],
+  "text:uski tabyat kharb hogyi": [
+    {
+      "type": "text",
+      "data": "Aise drame ladko ko bhut aate h"
+    }
+  ],
+  "text:hehe😂😂iske jaise bhut dekhe h": [
+    {
+      "type": "text",
+      "data": "ky mtlb kitno k dekha"
+    },
+    {
+      "type": "text",
+      "data": "Q tum v yahi krti ho kya jo bahut dekhi ho😂😁😁"
+    }
+  ],
+  "text:maine nhi kya kuch": [
+    {
+      "type": "text",
+      "data": "Okk enjoy"
+    }
+  ],
+  "text:are kr do n yrr itna bol rha to": [
+    {
+      "type": "text",
+      "data": "Kbhi nhi mar gyi tb bhi nhi"
+    }
+  ],
+  "text:apke liye ro rha": [
+    {
+      "type": "text",
+      "data": "Hehe😂😂iske jaise bhut dekhe h"
+    }
+  ],
+  "text:bhkk block krke unblock krna acchi baat nhi mr.": [
+    {
+      "type": "text",
+      "data": "Maine nhi kya kuch"
+    },
+    {
+      "type": "text",
+      "data": "apke liye ro rha"
+    },
+    {
+      "type": "text",
+      "data": "Are kr do n yrr itna bol rha to"
+    }
+  ],
+  "text:😒😒😒😒": [
+    {
+      "type": "text",
+      "data": "Bhkk block krke unblock krna acchi baat nhi mr."
+    }
+  ],
+  "text:ye bhar kha  h bro btau n puch kr": [
+    {
+      "type": "text",
+      "data": "Kya"
+    }
+  ],
+  "text:@dark_web_hdn_hacker_indian_help sarkar mt bolna🤨🤨": [
+    {
+      "type": "text",
+      "data": "😒😒😒😒"
+    }
+  ],
+  "sticker:CAADBQADNQQAApnrWFc5oodzQPKSnQI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADPAYAAsVaWVfZx5pugm4c0gI"
+    }
+  ],
+  "text:khebdi": [
+    {
+      "type": "text",
+      "data": "Don't talk to me like that"
+    }
+  ],
+  "text:hmm": [
+    {
+      "type": "text",
+      "data": "Or batau g kaisa gaya aaj ka exam"
+    },
+    {
+      "type": "text",
+      "data": "Kkrh"
+    }
+  ],
+  "text:dnr hua": [
+    {
+      "type": "text",
+      "data": "Hmm"
+    }
+  ],
+  "text:ok ok jaisi aap.k mrzi": [
+    {
+      "type": "text",
+      "data": "Ye bhar kha  h bro btau n puch kr"
+    },
+    {
+      "type": "text",
+      "data": "Good"
+    }
+  ],
+  "text:yhi hu": [
+    {
+      "type": "text",
+      "data": "DNR hua"
+    }
+  ],
+  "text:dnr krne me...apna batau kha ho": [
+    {
+      "type": "text",
+      "data": "YHI hu"
+    }
+  ],
+  "sticker:CAADBQADSw4AAgjhMFU60aJZ3RDCagI": [
+    {
+      "type": "text",
+      "data": "Khebdi"
+    }
+  ],
+  "sticker:CAADBQADHBEAAgt2UVQD23maPdVQtAI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADlBAAAntVcFV_F-RhzD_DHgI"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQADzBAAAl7reVUN3wW7phpgpwI"
+    }
+  ],
+  "text:×͜×a𝘭o͟n̬̤̯ꍟ❤s͙⒣@d⋆o̠w͟모 kha ho": [
+    {
+      "type": "text",
+      "data": "DNR krne me...apna batau kha ho"
+    }
+  ],
+  "text:bole the block hone ke baad nhi aaoge wapas ab mt dikhna 😏": [
+    {
+      "type": "text",
+      "data": "OK OK jaisi aap.k mrzi"
+    }
+  ],
+  "sticker:CAADBQADzBAAAl7reVUN3wW7phpgpwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADSw4AAgjhMFU60aJZ3RDCagI"
+    }
+  ],
+  "sticker:CAADBQADlRUAApITqFYxdP1Rm6LLygI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADHBEAAgt2UVQD23maPdVQtAI"
+    }
+  ],
+  "text:aap ne hme block.kr diya thnku so muc": [
+    {
+      "type": "text",
+      "data": "Bole the block hone ke baad nhi aaoge wapas ab Mt dikhna 😏"
+    }
+  ],
+  "text:tum block hi acche ho😏😏": [
+    {
+      "type": "text",
+      "data": "Aap ne hme block.kr diya thnku so muc"
+    }
+  ],
+  "sticker:CAADBQAD4xAAAgnn-VfMjc6nnrsf-QI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADlRUAApITqFYxdP1Rm6LLygI"
+    }
+  ],
+  "text:ab mene kya kr diya": [
+    {
+      "type": "text",
+      "data": "Tum block hi acche ho😏😏"
+    }
+  ],
+  "sticker:CAADBQAD7BEAAhPJIVZWwOJDu45AJwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQAD4xAAAgnn-VfMjc6nnrsf-QI"
+    }
+  ],
+  "text:good bye forever 😏": [
+    {
+      "type": "text",
+      "data": "Ab mene kya kr diya"
+    }
+  ],
+  "sticker:CAADBQADxw8AAjxlAAFUOvKmhLIdkI4C": [
+    {
+      "type": "sticker",
+      "data": "CAADBQAD7BEAAhPJIVZWwOJDu45AJwI"
+    }
+  ],
+  "sticker:CAADBQADlBAAAntVcFV_F-RhzD_DHgI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADxw8AAjxlAAFUOvKmhLIdkI4C"
+    }
+  ],
+  "text:hadd h": [
+    {
+      "type": "text",
+      "data": "Good bye forever 😏"
+    }
+  ],
+  "text:aise hi": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADlBAAAntVcFV_F-RhzD_DHgI"
+    },
+    {
+      "type": "text",
+      "data": "Dinner"
+    },
+    {
+      "type": "text",
+      "data": "Okk"
+    },
+    {
+      "type": "text",
+      "data": "Achha ji"
+    }
+  ],
+  "text:kyu": [
+    {
+      "type": "text",
+      "data": "Aise hi"
+    },
+    {
+      "type": "text",
+      "data": "Jaan na h"
+    },
+    {
+      "type": "text",
+      "data": "Itna time nhi h faltu"
+    },
+    {
+      "type": "text",
+      "data": "Kch nhi tb n pta chalega tum me ktni achai hai"
+    }
+  ],
+  "text:haa": [
+    {
+      "type": "sticker",
+      "data": "CAADBAADZhsAAvTceFMMTusLI8B4DwI"
+    },
+    {
+      "type": "text",
+      "data": "Kyu"
+    },
+    {
+      "type": "text",
+      "data": "Jiddi ho shi ho pr thora pyar to hoga n tum me ya wo v nhi h😂😂🧸🧸"
+    },
+    {
+      "type": "text",
+      "data": "Dikhao"
+    }
+  ],
+  "text:aaj ke baad sapne me bhi nhi": [
+    {
+      "type": "text",
+      "data": "Hadd h"
+    }
+  ],
+  "text:gussa girl": [
+    {
+      "type": "text",
+      "data": "Haa"
+    }
+  ],
+  "text:jaan na h": [
+    {
+      "type": "text",
+      "data": "Aaj ke baad sapne me bhi nhi"
+    },
+    {
+      "type": "text",
+      "data": "Mt jano"
+    },
+    {
+      "type": "text",
+      "data": "Kya"
+    }
+  ],
+  "text:nhi gussa": [
+    {
+      "type": "text",
+      "data": "gussa girl"
+    }
+  ],
+  "text:itna attitude": [
+    {
+      "type": "text",
+      "data": "Nhi gussa"
+    }
+  ],
+  "text:mt jano": [
+    {
+      "type": "text",
+      "data": "Jaan na h"
+    }
+  ],
+  "text:kyu koi mtlb h kya": [
+    {
+      "type": "text",
+      "data": "Itna attitude"
+    }
+  ],
+  "text:khan se maasoom ho tum": [
+    {
+      "type": "text",
+      "data": "Kyu koi mtlb h kya"
+    }
+  ],
+  "text:btado": [
+    {
+      "type": "text",
+      "data": "Kyu"
+    }
+  ],
+  "text:hm": [
+    {
+      "type": "text",
+      "data": "Khan se maasoom ho tum"
+    },
+    {
+      "type": "text",
+      "data": "Kkrh"
+    },
+    {
+      "type": "text",
+      "data": "Yaha pe sabka kraunga"
+    },
+    {
+      "type": "text",
+      "data": "Otte"
+    },
+    {
+      "type": "text",
+      "data": "Bdhiya h bta di"
+    },
+    {
+      "type": "text",
+      "data": "ख्वाहिशें खाक हुई\nजैसे इक उम्र जल कर राख हुई ।"
+    },
+    {
+      "type": "text",
+      "data": "Hme q block ki tum"
+    }
+  ],
+  "text:kyu btau": [
+    {
+      "type": "text",
+      "data": "Btado"
+    }
+  ],
+  "text:kkrh": [
+    {
+      "type": "text",
+      "data": "Kyu btau"
+    },
+    {
+      "type": "text",
+      "data": "Kuch nahi"
+    },
+    {
+      "type": "text",
+      "data": "Kuchh nhi"
+    },
+    {
+      "type": "text",
+      "data": "Vc pe huu"
+    },
+    {
+      "type": "text",
+      "data": "Chup"
+    }
+  ],
+  "text:/learn 1000": [
+    {
+      "type": "text",
+      "data": "📚 Learning from last 1000 messages..."
+    }
+  ],
+  "text:mujhe mt dekhiye": [
+    {
+      "type": "text",
+      "data": "To kya dekhu"
+    },
+    {
+      "type": "text",
+      "data": "Kyu"
+    },
+    {
+      "type": "text",
+      "data": "😒😒😒😒🥹😡😡😡😡😡😡😡😡"
+    }
+  ],
+  "text:kon bola tum gulam ho tum to gulab jis me kaate bhare hai 🤭😁😁": [
+    {
+      "type": "text",
+      "data": "Ha kaate nhi hoge to koi bhi muh utha kr aa jayega"
+    }
+  ],
+  "sticker:BAADBQADxA0AAqG0yVSEzh9557sVNQI": [
+    {
+      "type": "sticker",
+      "data": "BAADBQADngsAAlavyVQsnND0fzQ55gI"
+    }
+  ],
+  "text:jago mujhe kya": [
+    {
+      "type": "text",
+      "data": "Haa to tumhe kya"
+    }
+  ],
+  "text:me bhi theek hun apko dekh kr": [
+    {
+      "type": "text",
+      "data": "Mujhe mt dekhiye"
+    }
+  ],
+  "text:ha to kisi ki gulam thodi hu": [
+    {
+      "type": "text",
+      "data": "Kon bola tum gulam ho tum to gulab jis me kaate bhare hai 🤭😁😁"
+    }
+  ],
+  "text:bdhiya aap btao": [
+    {
+      "type": "text",
+      "data": "ME bhi theek hun apko dekh kr"
+    }
+  ],
+  "text:q so jaau....": [
+    {
+      "type": "text",
+      "data": "Jago mujhe kya"
+    }
+  ],
+  "text:kaise ho": [
+    {
+      "type": "text",
+      "data": "Bdhiya aap btao"
+    }
+  ],
+  "text:bdhiya hai yrr....bahut lamba jaaugi tum": [
+    {
+      "type": "text",
+      "data": "Ha to kisi ki gulam thodi hu"
+    }
+  ],
+  "text:nhi so jao": [
+    {
+      "type": "text",
+      "data": "Q so jaau...."
+    }
+  ],
+  "text:okl": [
+    {
+      "type": "text",
+      "data": "Kaise ho"
+    }
+  ],
+  "text:ji": [
+    {
+      "type": "text",
+      "data": "Okl"
+    },
+    {
+      "type": "text",
+      "data": "Kaha thi aap"
+    }
+  ],
+  "text:ha hu": [
+    {
+      "type": "text",
+      "data": "Bdhiya hai yrr....bahut lamba jaaugi tum"
+    }
+  ],
+  "text:haa q bio hona chaiye tha kya": [
+    {
+      "type": "text",
+      "data": "Nhi so jao"
+    }
+  ],
+  "text:😂😂😂okk": [
+    {
+      "type": "text",
+      "data": "Ji"
+    }
+  ],
+  "text:naa biology": [
+    {
+      "type": "text",
+      "data": "😂😂😂okk"
+    }
+  ],
+  "text:han ji": [
+    {
+      "type": "text",
+      "data": "Hm"
+    }
+  ],
+  "sticker:CAADBQAD6gsAAm3OMFeB02BzTwmBoAI": [
+    {
+      "type": "sticker",
+      "data": "BAADBQADtQ8AAgNryVTq6CHe26nwCQI"
+    }
+  ],
+  "sticker:CAADBQADDAYAAptsWFfqX35qF4iCVwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADNQQAApnrWFc5oodzQPKSnQI"
+    },
+    {
+      "type": "text",
+      "data": "Roj dekhta hun practical tere se karna hai"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQADygUAAp4bWVeXXt4rS_A64gI"
+    }
+  ],
+  "sticker:CAADBQADRQkAAuACOFf3jS9WcllXIgI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQAD6gsAAm3OMFeB02BzTwmBoAI"
+    }
+  ],
+  "text:yes": [
+    {
+      "type": "text",
+      "data": "Aao vc"
+    }
+  ],
+  "text:o bhai": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADRQkAAuACOFf3jS9WcllXIgI"
+    }
+  ],
+  "text:thank you": [
+    {
+      "type": "text",
+      "data": "Han ji"
+    }
+  ],
+  "sticker:CAADBQADxRYAAn09mVewkugskz_5gwI": [
+    {
+      "type": "sticker",
+      "data": "BAADBQADORYAAsW_SVfvSj9I7iy4sQI"
+    }
+  ],
+  "text:achii baat h": [
+    {
+      "type": "text",
+      "data": "Thank you"
+    }
+  ],
+  "text:vc per aoo": [
+    {
+      "type": "text",
+      "data": "Kyu"
+    },
+    {
+      "type": "text",
+      "data": "Nahi"
+    }
+  ],
+  "text:bhut acchi aapki soch se bhi jada acchi hu": [
+    {
+      "type": "text",
+      "data": "Achii baat h"
+    },
+    {
+      "type": "text",
+      "data": "Vc per aoo"
+    }
+  ],
+  "text:kesi ho": [
+    {
+      "type": "text",
+      "data": "Bhut acchi aapki soch se bhi Jada acchi hu"
+    },
+    {
+      "type": "text",
+      "data": "Thik"
+    }
+  ],
+  "text:bhutni": [
+    {
+      "type": "text",
+      "data": "Hello"
+    }
+  ],
+  "text:kuch nahi": [
+    {
+      "type": "text",
+      "data": "Ok"
+    }
+  ],
+  "text:ok": [
+    {
+      "type": "text",
+      "data": "Hmm"
+    }
+  ],
+  "text:mummy ha": [
+    {
+      "type": "text",
+      "data": "Ok"
+    }
+  ],
+  "text:q": [
+    {
+      "type": "text",
+      "data": "Mummy ha"
+    },
+    {
+      "type": "text",
+      "data": "Ase hi"
+    }
+  ],
+  "text:nahi": [
+    {
+      "type": "text",
+      "data": "Q"
+    },
+    {
+      "type": "text",
+      "data": "What are you. Doing there?"
+    },
+    {
+      "type": "text",
+      "data": "Ok jao"
+    }
+  ],
+  "text:vc tpko": [
+    {
+      "type": "text",
+      "data": "Nahi"
+    }
+  ],
+  "text:thik": [
+    {
+      "type": "text",
+      "data": "Vc tpko"
+    }
+  ],
+  "text:hii": [
+    {
+      "type": "text",
+      "data": "Hello"
+    },
+    {
+      "type": "text",
+      "data": "Bolo"
+    }
+  ],
+  "text:thanks": [
+    {
+      "type": "text",
+      "data": "Kesi ho"
+    },
+    {
+      "type": "text",
+      "data": "Wlcm g....or batau aage ki pdhai kya krni h"
+    }
+  ],
+  "text:welcome": [
+    {
+      "type": "text",
+      "data": "Thanks"
+    }
+  ],
+  "text:nyt m nhu": [
+    {
+      "type": "text",
+      "data": "Q"
+    }
+  ],
+  "text:vc aaiye": [
+    {
+      "type": "text",
+      "data": "Nyt m nhu"
+    }
+  ],
+  "text:queen": [
+    {
+      "type": "text",
+      "data": "Vc aao"
+    }
+  ],
+  "text:ina meri bas ke baat nhi h": [
+    {
+      "type": "text",
+      "data": "Vc aaiye"
+    }
+  ],
+  "text:dekho upr jake msg🙄": [
+    {
+      "type": "text",
+      "data": "Ina meri bas ke baat nhi h"
+    }
+  ],
+  "text:kya hua": [
+    {
+      "type": "text",
+      "data": "Kuch nahi"
+    },
+    {
+      "type": "text",
+      "data": "Kch n"
+    },
+    {
+      "type": "text",
+      "data": "Kuch nhi babu"
+    }
+  ],
+  "text:ruko late h": [
+    {
+      "type": "text",
+      "data": "Skip"
+    },
+    {
+      "type": "text",
+      "data": "Hn"
+    }
+  ],
+  "text:hn": [
+    {
+      "type": "text",
+      "data": "Ruko late h"
+    },
+    {
+      "type": "text",
+      "data": "So jao"
+    },
+    {
+      "type": "text",
+      "data": "Vc aao is grup pe kuchh tufami krte hai"
+    },
+    {
+      "type": "text",
+      "data": "Oooo hye"
+    }
+  ],
+  "text:accha": [
+    {
+      "type": "text",
+      "data": "Hn"
+    },
+    {
+      "type": "text",
+      "data": "Ki ho gya 👀break up"
+    },
+    {
+      "type": "text",
+      "data": "Hnn"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBAADtBQAAllAoVKSD7L7WVEX_wI"
+    }
+  ],
+  "text:@user_dead_012 dusra koi bot add kro": [
+    {
+      "type": "text",
+      "data": "Accha"
+    }
+  ],
+  "text:okk": [
+    {
+      "type": "text",
+      "data": "Hn"
+    }
+  ],
+  "text:kro": [
+    {
+      "type": "text",
+      "data": "Okk"
+    },
+    {
+      "type": "text",
+      "data": "Koi lafda to na hoga na?"
+    }
+  ],
+  "text:abe bsdk baj ja song": [
+    {
+      "type": "text",
+      "data": "Restart"
+    }
+  ],
+  "text:itni saanti kahe h vc me": [
+    {
+      "type": "text",
+      "data": "Pta nhi"
+    }
+  ],
+  "text:😶‍🌫️": [
+    {
+      "type": "text",
+      "data": "Kya hua"
+    }
+  ],
+  "text:abee": [
+    {
+      "type": "text",
+      "data": "Itni saanti kahe h vc me"
+    }
+  ],
+  "text:ale mera bacha mt ro 😁🫣": [
+    {
+      "type": "text",
+      "data": "Abee"
+    }
+  ],
+  "text:.": [
+    {
+      "type": "text",
+      "data": "/approve"
+    }
+  ],
+  "sticker:CAADBQADaw8AAvWdeVWjA2Kg-EmovwI": [
+    {
+      "type": "text",
+      "data": "Ale mera bacha mt ro 😁🫣"
+    }
+  ],
+  "text:nhi m ignore nhi krti": [
+    {
+      "type": "text",
+      "data": "Dekho upr jake msg🙄"
+    }
+  ],
+  "text:ok ok": [
+    {
+      "type": "text",
+      "data": "Hmmm"
+    },
+    {
+      "type": "text",
+      "data": "Congratulations phir se break up hua"
+    }
+  ],
+  "text:haan": [
+    {
+      "type": "text",
+      "data": "Ok ok"
+    }
+  ],
+  "text:accha 😂": [
+    {
+      "type": "text",
+      "data": "Haan"
+    }
+  ],
+  "text:bigd gye ho👀 phle jese nhi ho": [
+    {
+      "type": "text",
+      "data": "Accha 😂"
+    }
+  ],
+  "text:bigda hi kb tha me": [
+    {
+      "type": "text",
+      "data": "bigd gye ho👀 phle jese nhi ho"
+    }
+  ],
+  "text:tab sudharo ge tum": [
+    {
+      "type": "text",
+      "data": "Bigda hi kb tha me"
+    }
+  ],
+  "text:sir yesa reply kyun \n\njao": [
+    {
+      "type": "text",
+      "data": "😶‍🌫️"
+    }
+  ],
+  "text:abeee teri to": [
+    {
+      "type": "text",
+      "data": "Haha"
+    }
+  ],
+  "text:😂😂": [
+    {
+      "type": "text",
+      "data": "Tab sudharo ge tum"
+    },
+    {
+      "type": "text",
+      "data": "Bacha be like - mera papa kaun hai \nBabche ki mummy be like - yeh raha pehle papa \n\nSecond papa🙂‍↕️"
+    }
+  ],
+  "text:congratulations phir se break up hua": [
+    {
+      "type": "text",
+      "data": "Abeee teri to"
+    }
+  ],
+  "text:good tumko dhokha hi milna chahiye": [
+    {
+      "type": "text",
+      "data": "😂😂"
+    }
+  ],
+  "text:hnn 😂😂": [
+    {
+      "type": "text",
+      "data": "Good tumko dhokha hi milna chahiye"
+    }
+  ],
+  "text:ki ho gya 👀break up": [
+    {
+      "type": "text",
+      "data": "Hnn 😂😂"
+    }
+  ],
+  "text:hnn": [
+    {
+      "type": "text",
+      "data": "Ok ok"
+    }
+  ],
+  "text:toh hai to bola hu me": [
+    {
+      "type": "text",
+      "data": "Accha"
+    }
+  ],
+  "text:kch v mtlb": [
+    {
+      "type": "text",
+      "data": "Toh hai to bola hu me"
+    }
+  ],
+  "text:teraaa": [
+    {
+      "type": "text",
+      "data": "Kch v mtlb"
+    }
+  ],
+  "text:kon bf kon sa bf kiska bf 😂😂": [
+    {
+      "type": "text",
+      "data": "Teraaa"
+    }
+  ],
+  "text:tum sattu(laddu) ho": [
+    {
+      "type": "text",
+      "data": "😐😐"
+    }
+  ],
+  "text:kya bhai": [
+    {
+      "type": "text",
+      "data": "Tum sattu(laddu) ho"
+    }
+  ],
+  "text:malum h": [
+    {
+      "type": "text",
+      "data": "Kya bhai"
+    }
+  ],
+  "text:dm dekho. bhai ka": [
+    {
+      "type": "text",
+      "data": "Dekhi"
+    }
+  ],
+  "text:laddu": [
+    {
+      "type": "text",
+      "data": "Malum h"
+    }
+  ],
+  "text:so jao bohot time ho gaya": [
+    {
+      "type": "text",
+      "data": "Dm dekho. Bhai ka"
+    }
+  ],
+  "text:bolo": [
+    {
+      "type": "text",
+      "data": "Kyu"
+    },
+    {
+      "type": "text",
+      "data": "Lal pari mangva do😂😂"
+    },
+    {
+      "type": "text",
+      "data": "Kese bolu"
+    }
+  ],
+  "text:acc udane  le liye": [
+    {
+      "type": "text",
+      "data": "Hn"
+    }
+  ],
+  "sticker:CAADBAADlRIAAs5ZkFJpglYnVCL6UgI": [
+    {
+      "type": "text",
+      "data": "Dm dekha kro updatded rahoge"
+    }
+  ],
+  "text:aree 🙂": [
+    {
+      "type": "text",
+      "data": "So jao bohot time ho gaya"
+    }
+  ],
+  "text:nhi... \nbut tum apne side se kro \nvo violence wala method use mt krna jo hum log use kiye thy": [
+    {
+      "type": "text",
+      "data": "Acc udane  le liye"
+    }
+  ],
+  "text:aaaye": [
+    {
+      "type": "text",
+      "data": "😅😅"
+    }
+  ],
+  "text:koi lafda to na hoga na?": [
+    {
+      "type": "text",
+      "data": "Nhi... \nBut tum apne side se kro \nVo violence wala method use mt krna jo hum log use kiye thy"
+    },
+    {
+      "type": "text",
+      "data": "🙄🤫"
+    }
+  ],
+  "text:abhi nahi": [
+    {
+      "type": "text",
+      "data": "Aree 🙂"
+    }
+  ],
+  "text:🙄🤫": [
+    {
+      "type": "text",
+      "data": "AAaye"
+    }
+  ],
+  "text:ji hua aapka hua ?": [
+    {
+      "type": "text",
+      "data": "Abhi nahi"
+    }
+  ],
+  "text:dinner hua": [
+    {
+      "type": "text",
+      "data": "Ji hua aapka hua ?"
+    }
+  ],
+  "text:kuchh nhi 😄😄": [
+    {
+      "type": "text",
+      "data": "Dinner hua"
+    }
+  ],
+  "text:kch n": [
+    {
+      "type": "text",
+      "data": "Okay"
+    }
+  ],
+  "text:😁😁 kuchh nahi aap batao": [
+    {
+      "type": "text",
+      "data": "Kuchh nhi 😄😄"
+    }
+  ],
+  "text:yaha pe sabka kraunga": [
+    {
+      "type": "text",
+      "data": "Kro"
+    },
+    {
+      "type": "text",
+      "data": "Httt"
+    }
+  ],
+  "text:aap mujhe bhul gye ho bf ka chkkr mein": [
+    {
+      "type": "text",
+      "data": "Kon bf kon sa bf kiska bf 😂😂"
+    }
+  ],
+  "text:what are you. doing there?": [
+    {
+      "type": "text",
+      "data": "😁😁 kuchh nahi aap batao"
+    }
+  ],
+  "sticker:BAADBQADewgAAiX5YVbivdKtByt1ewI": [
+    {
+      "type": "text",
+      "data": "Aap mujhe bhul gye ho bf ka chkkr mein"
+    }
+  ],
+  "text:delete acc hoga": [
+    {
+      "type": "text",
+      "data": "Hm"
+    }
+  ],
+  "text:koi ni": [
+    {
+      "type": "text",
+      "data": "Delete acc hoga"
+    }
+  ],
+  "text:good night radhe radhe": [
+    {
+      "type": "text",
+      "data": "Uh too"
+    }
+  ],
+  "text:kl aaunga ab sone jaa rha hu gn": [
+    {
+      "type": "text",
+      "data": "Good night radhe radhe"
+    }
+  ],
+  "text:mujhe kon kon janta hai": [
+    {
+      "type": "text",
+      "data": "Koi ni"
+    }
+  ],
+  "text:vc aao is grup pe kuchh tufami krte hai": [
+    {
+      "type": "text",
+      "data": "Kl aaunga ab sone jaa rha hu gn"
+    }
+  ],
+  "text:ok jao": [
+    {
+      "type": "text",
+      "data": "Sir yesa reply kyun \n\nJao"
+    }
+  ],
+  "text:bade log 🥺": [
+    {
+      "type": "text",
+      "data": "Hn"
+    },
+    {
+      "type": "text",
+      "data": "Vc per aoo"
+    }
+  ],
+  "text:@stripathi97 😂😂😂": [
+    {
+      "type": "text",
+      "data": "Kya hua"
+    }
+  ],
+  "sticker:CAADBAADtBQAAllAoVKSD7L7WVEX_wI": [
+    {
+      "type": "sticker",
+      "data": "BAADBQADewgAAiX5YVbivdKtByt1ewI"
+    }
+  ],
+  "text:tumhari height se nhi": [
+    {
+      "type": "text",
+      "data": "Bade log 🥺"
+    }
+  ],
+  "text:mera stikar 😭😭": [
+    {
+      "type": "text",
+      "data": "/approve"
+    }
+  ],
+  "text:me bhi👀": [
+    {
+      "type": "text",
+      "data": "Accha"
+    }
+  ],
+  "text:dinner": [
+    {
+      "type": "text",
+      "data": "Dn tera hua"
+    }
+  ],
+  "text:bdiya ba tum btao": [
+    {
+      "type": "text",
+      "data": "Me bhi👀"
+    }
+  ],
+  "text:ye tg vale kitni badi badi baten karte hain 🤦‍♂🤦‍♂🤦‍♂": [
+    {
+      "type": "text",
+      "data": "Tumhari height se nhi"
+    },
+    {
+      "type": "text",
+      "data": "@Stripathi97 😂😂😂"
+    }
+  ],
+  "text:why": [
+    {
+      "type": "text",
+      "data": "Aise hi"
+    }
+  ],
+  "text:@user_dead_012 kese ho babuaaa": [
+    {
+      "type": "text",
+      "data": "Bdiya ba tum btao"
+    }
+  ],
+  "text:nope": [
+    {
+      "type": "text",
+      "data": "Why"
+    }
+  ],
+  "text:mike pls": [
+    {
+      "type": "text",
+      "data": "Nope"
+    }
+  ],
+  "text:aree 🌚😂😂😂": [
+    {
+      "type": "text",
+      "data": "Mike pls"
+    }
+  ],
+  "text:@user_dead_012": [
+    {
+      "type": "text",
+      "data": "Aree 🌚😂😂😂"
+    },
+    {
+      "type": "text",
+      "data": "Yes"
+    }
+  ],
+  "text:solly 🙊 but mai aapko boli 😂😂": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADURkAAowQOVVxHFDUdJdkYAI"
+    }
+  ],
+  "text:kmini selfish ko tg krna tha😂": [
+    {
+      "type": "text",
+      "data": "@User_dead_012"
+    }
+  ],
+  "text:kya mtlb": [
+    {
+      "type": "text",
+      "data": "Kmini selfish ko tg krna tha😂"
+    }
+  ],
+  "text:aap ko nhi bola": [
+    {
+      "type": "text",
+      "data": "Solly 🙊 but mai aapko boli 😂😂"
+    }
+  ],
+  "text:jahar kha lo 😂😂": [
+    {
+      "type": "text",
+      "data": "Aap ko nhi bola"
+    }
+  ],
+  "text:are kha👀 dedi reply\n\nme bhi mast": [
+    {
+      "type": "text",
+      "data": "Kya mtlb"
+    }
+  ],
+  "text:so jaao": [
+    {
+      "type": "text",
+      "data": "Achha"
+    }
+  ],
+  "sticker:CAADBQAD7xUAAiqfMVdE7a1qZ5sQPQI": [
+    {
+      "type": "text",
+      "data": "Jahar kha lo 😂😂"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQADRQkAAuACOFf3jS9WcllXIgI"
+    }
+  ],
+  "text:10.30 pe sounga": [
+    {
+      "type": "text",
+      "data": "So jaao"
+    }
+  ],
+  "text:mst hu tu bta bhai": [
+    {
+      "type": "text",
+      "data": "are kha👀 dedi reply\n\nMe bhi mast"
+    }
+  ],
+  "text:kya bola": [
+    {
+      "type": "text",
+      "data": "10.30 pe sounga"
+    }
+  ],
+  "sticker:CAADBQADqQoAAuKAOFfTgHLmz8MWDwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQAD7xUAAiqfMVdE7a1qZ5sQPQI"
+    }
+  ],
+  "text:itna jaldi abhi to bole 😒😒": [
+    {
+      "type": "text",
+      "data": "Kya bola"
+    }
+  ],
+  "text:kese ho janemaan": [
+    {
+      "type": "text",
+      "data": "Mst hu tu bta bhai"
+    }
+  ],
+  "sticker:CAADBQADUwoAAv6YMVdkBSY9rB-0OQI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADqQoAAuKAOFfTgHLmz8MWDwI"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQADlQoAAjScMFeSqVgx0Y6Q_gI"
+    }
+  ],
+  "text:sone jaa rha hu": [
+    {
+      "type": "text",
+      "data": "Itna jaldi abhi to bole 😒😒"
+    }
+  ],
+  "text:kuch nhi babu": [
+    {
+      "type": "text",
+      "data": "Kese ho janemaan"
+    },
+    {
+      "type": "text",
+      "data": "Kya kar rahe ho"
+    }
+  ],
+  "text:kya kar rahe ho": [
+    {
+      "type": "text",
+      "data": "Sone jaa rha hu"
+    }
+  ],
+  "sticker:CAADBQADUxYAAqLaWVZGIaHPGZy8eAI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADUwoAAv6YMVdkBSY9rB-0OQI"
+    },
+    {
+      "type": "text",
+      "data": "Noi"
+    }
+  ],
+  "text:kya teri to bol n utha kr ptk denge": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADaw8AAvWdeVWjA2Kg-EmovwI"
+    }
+  ],
+  "sticker:CAADBAADnBIAAqbxcR6Xl8vipkImWAI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADUxYAAqLaWVZGIaHPGZy8eAI"
+    }
+  ],
+  "sticker:CAADBQAD1gMAAufSWFc87umJPyYVOAI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADDAYAAptsWFfqX35qF4iCVwI"
+    }
+  ],
+  "text:mat mano 😂😂": [
+    {
+      "type": "text",
+      "data": "screen video dikhao"
+    }
+  ],
+  "sticker:CAADBQADqgoAAkFkMFeQr7HtR45-IAI": [
+    {
+      "type": "text",
+      "data": "Mat mano 😂😂"
+    }
+  ],
+  "text:mai insta nahi use karti": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADqgoAAkFkMFeQr7HtR45-IAI"
+    }
+  ],
+  "sticker:CAADBQADDAUAAjtWWVVrwFQ_fY_0DwI": [
+    {
+      "type": "text",
+      "data": "Kya hua"
+    }
+  ],
+  "sticker:CAADBQAD_BUAAgnkqFarSzZ5gPM7HQI": [
+    {
+      "type": "text",
+      "data": "O bhai"
+    },
+    {
+      "type": "text",
+      "data": "Waah mst pose h"
+    }
+  ],
+  "sticker:CAADBQAD6gQAAvMOWFcQmNXnUTeGPQI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADxRYAAn09mVewkugskz_5gwI"
+    }
+  ],
+  "text:lol 😂": [
+    {
+      "type": "sticker",
+      "data": "CAADBQAD6gQAAvMOWFcQmNXnUTeGPQI"
+    }
+  ],
+  "text:redzone bro 😂😂": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADDAUAAjtWWVVrwFQ_fY_0DwI"
+    }
+  ],
+  "text:hurr": [
+    {
+      "type": "text",
+      "data": "Lol 😂"
+    }
+  ],
+  "text:waah mst pose h": [
+    {
+      "type": "text",
+      "data": "Hurr"
+    }
+  ],
+  "text:nothing": [
+    {
+      "type": "text",
+      "data": "Vc aao n baaten krte h"
+    }
+  ],
+  "text:kkrh qt": [
+    {
+      "type": "text",
+      "data": "Nothing"
+    }
+  ],
+  "text:ad u": [
+    {
+      "type": "text",
+      "data": "Kkrh qt"
+    },
+    {
+      "type": "text",
+      "data": "Vc hu ab dm aap tum"
+    }
+  ],
+  "sticker:CAADBQADDBQAAqhfqVaEfDHcNQFFEwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQAD_BUAAgnkqFarSzZ5gPM7HQI"
+    }
+  ],
+  "text:hlo": [
+    {
+      "type": "text",
+      "data": "Kkrh"
+    },
+    {
+      "type": "text",
+      "data": "Hi"
+    }
+  ],
+  "text:radhe radhe": [
+    {
+      "type": "text",
+      "data": "Radhe Radhe"
+    }
+  ],
+  "text:okey": [
+    {
+      "type": "text",
+      "data": "Hnji"
+    }
+  ],
+  "text:hnji mera ho gya": [
+    {
+      "type": "text",
+      "data": "Okey"
+    },
+    {
+      "type": "text",
+      "data": "Acha bhai"
+    }
+  ],
+  "text:tamil ahh": [
+    {
+      "type": "text",
+      "data": "@Bad_King_Ki_Choice_OP udao re"
+    }
+  ],
+  "text:abhi nhi or aapka": [
+    {
+      "type": "text",
+      "data": "Hnji mera ho gya"
+    }
+  ],
+  "text:aapka": [
+    {
+      "type": "text",
+      "data": "Abhi nhi or aapka"
+    }
+  ],
+  "text:mst app btao": [
+    {
+      "type": "text",
+      "data": "Mst"
+    }
+  ],
+  "text:ghar pe sab kaise hai": [
+    {
+      "type": "text",
+      "data": "Mst app btao"
+    }
+  ],
+  "text:uh kkrh": [
+    {
+      "type": "text",
+      "data": "Kuch nhi app btao"
+    }
+  ],
+  "text:ignore😒😒": [
+    {
+      "type": "text",
+      "data": "Nhi m ignore nhi krti"
+    }
+  ],
+  "sticker:CAADBQADWBYAAqj1oVbWOWgGVvfxQwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADDBQAAqhfqVaEfDHcNQFFEwI"
+    }
+  ],
+  "sticker:CAADBQADvxIAAiMNqVb4A3PnoBMDkwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADWBYAAqj1oVbWOWgGVvfxQwI"
+    }
+  ],
+  "text:abee teri to": [
+    {
+      "type": "text",
+      "data": "Kya teri to bol n utha kr ptk denge"
+    }
+  ],
+  "text:hmm ji": [
+    {
+      "type": "text",
+      "data": "Kkrh"
+    }
+  ],
+  "sticker:CAADBQADlQoAAjScMFeSqVgx0Y6Q_gI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADvxIAAiMNqVb4A3PnoBMDkwI"
+    }
+  ],
+  "sticker:CAADBQAD4wsAAnPbMVc2xdJfBu9hogI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADUwoAAv6YMVdkBSY9rB-0OQI"
+    }
+  ],
+  "sticker:CAADBQADvQwAAs5xMVfJU8jwUiRCdwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQAD4wsAAnPbMVc2xdJfBu9hogI"
+    }
+  ],
+  "sticker:CAADBQAD0wYAAqG_WVfS-K0aGvMlcAI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADvQwAAs5xMVfJU8jwUiRCdwI"
+    }
+  ],
+  "text:roj dekhta hun practical tere se karna hai": [
+    {
+      "type": "text",
+      "data": "Hu"
+    }
+  ],
+  "text:bacha be like - mera papa kaun hai \nbabche ki mummy be like - yeh raha pehle papa \n\nsecond papa🙂‍↕️": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADDAYAAptsWFfqX35qF4iCVwI"
+    }
+  ],
+  "sticker:BAADBQAD5gwAAyTRVOK5AncMRTRXAg": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADDgUAAsTiUFfGak0-8HPbYQI"
+    }
+  ],
+  "text:u tharki 3": [
+    {
+      "type": "text",
+      "data": "Salo kutto 🤣🤣"
+    },
+    {
+      "type": "text",
+      "data": "Bhosd m wisper msg on kr"
+    }
+  ],
+  "text:humne kab pregnant banaa diya tumko..?": [
+    {
+      "type": "text",
+      "data": "😂😂"
+    }
+  ],
+  "text:@stripathi97 tharki 1\n@bad_king_ki_choice_op tharki 2": [
+    {
+      "type": "text",
+      "data": "U tharki 3"
+    },
+    {
+      "type": "text",
+      "data": "humne kab pregnant banaa Diya Tumko..?"
+    }
+  ],
+  "text:dekh jra kch bheja h 😂": [
+    {
+      "type": "sticker",
+      "data": "CAADBAADnBIAAqbxcR6Xl8vipkImWAI"
+    }
+  ],
+  "sticker:CAADBQADDgUAAsTiUFfGak0-8HPbYQI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQAD1gMAAufSWFc87umJPyYVOAI"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQADDAYAAptsWFfqX35qF4iCVwI"
+    }
+  ],
+  "sticker:CAADBQADwAUAAvcaWVfRHn1FoPyMRQI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADDgUAAsTiUFfGak0-8HPbYQI"
+    }
+  ],
+  "text:okeg": [
+    {
+      "type": "text",
+      "data": "Ignore😒😒"
+    },
+    {
+      "type": "text",
+      "data": "Uh kkrh"
+    }
+  ],
+  "text:m mst": [
+    {
+      "type": "text",
+      "data": "Ghar pe sab kaise hai"
+    }
+  ],
+  "text:vc pe huu": [
+    {
+      "type": "text",
+      "data": "Okeg"
+    }
+  ],
+  "sticker:BAADBQADmhcAArvjeVX8PFJO7LPKiwI": [
+    {
+      "type": "text",
+      "data": "Dekh jra kch bheja h 😂"
+    }
+  ],
+  "text:aap kaisy ho": [
+    {
+      "type": "text",
+      "data": "M mst"
+    }
+  ],
+  "text:mai badhiya huu": [
+    {
+      "type": "text",
+      "data": "Kkrh"
+    }
+  ],
+  "text:kaise ho mr": [
+    {
+      "type": "text",
+      "data": "Mai badhiya huu"
+    }
+  ],
+  "text:hye": [
+    {
+      "type": "text",
+      "data": "Kaise ho mr"
+    }
+  ],
+  "sticker:CAADBQADkwUAAnD8WVeGxnjSVqpxtQI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADwAUAAvcaWVfRHn1FoPyMRQI"
+    }
+  ],
+  "text:oooo hye": [
+    {
+      "type": "text",
+      "data": "Hye"
+    }
+  ],
+  "text:on he hu": [
+    {
+      "type": "text",
+      "data": "Hn"
+    },
+    {
+      "type": "text",
+      "data": "Vc aao"
+    }
+  ],
+  "text:ok phle on to aaya kro aap": [
+    {
+      "type": "text",
+      "data": "On he hu"
+    }
+  ],
+  "text:hoii": [
+    {
+      "type": "sticker",
+      "data": "BAADBQADmhcAArvjeVX8PFJO7LPKiwI"
+    }
+  ],
+  "text:noi": [
+    {
+      "type": "text",
+      "data": "Hoii"
+    },
+    {
+      "type": "text",
+      "data": "Blacklist"
+    }
+  ],
+  "sticker:CAADBQADTwQAAkL_WVegIspxK9sc-QI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADkwUAAnD8WVeGxnjSVqpxtQI"
+    }
+  ],
+  "sticker:CAADBQADUQUAAj1YWVcplXB9Vzh2gAI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADTwQAAkL_WVegIspxK9sc-QI"
+    }
+  ],
+  "sticker:CAADBQADGwQAAv6MWVd-FUz-na0iHQI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADUQUAAj1YWVcplXB9Vzh2gAI"
+    }
+  ],
+  "sticker:CAADBQADPAYAAsVaWVfZx5pugm4c0gI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADGwQAAv6MWVd-FUz-na0iHQI"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQAD8gQAAs6uUVfIDbVT1NCICwI"
+    }
+  ],
+  "sticker:CAADBQAD6AUAAld0WVcEohIc18GGRQI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADPAYAAsVaWVfZx5pugm4c0gI"
+    }
+  ],
+  "sticker:CAADBQADygUAAp4bWVeXXt4rS_A64gI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQAD6AUAAld0WVcEohIc18GGRQI"
+    }
+  ],
+  "sticker:CAADBQADSAUAAki4WFc7LpdvPIePiwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADDgUAAsTiUFfGak0-8HPbYQI"
+    }
+  ],
+  "sticker:CAADBQADQRMAAh4JcFXPaSsAAUwZY1IC": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADUxYAAqLaWVZGIaHPGZy8eAI"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQAD4A8AAsIUeVX8WzcyMC3_bQI"
+    }
+  ],
+  "sticker:CAADBQADIwQAAq5HUVeRhKWXxNaLiAI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADSAUAAki4WFc7LpdvPIePiwI"
+    },
+    {
+      "type": "text",
+      "data": "Vc"
+    },
+    {
+      "type": "text",
+      "data": "Kya pta tum batau😁😂🫣"
+    }
+  ],
+  "text:kru guddi laal🌚🌚👀": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADQRMAAh4JcFXPaSsAAUwZY1IC"
+    }
+  ],
+  "text:no bkwasss": [
+    {
+      "type": "text",
+      "data": "Ao"
+    }
+  ],
+  "text:vc": [
+    {
+      "type": "text",
+      "data": "Aata h"
+    }
+  ],
+  "sticker:CAADBQADIAYAAmqfUVeR-q2IhDmQUwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADIwQAAq5HUVeRhKWXxNaLiAI"
+    }
+  ],
+  "text:haa karega q n karega🤭🫣🫣": [
+    {
+      "type": "text",
+      "data": "Abee teri to"
+    }
+  ],
+  "text:bilkul karunga🌚": [
+    {
+      "type": "text",
+      "data": "Kru guddi laal🌚🌚👀"
+    },
+    {
+      "type": "text",
+      "data": "To kar na 😂"
+    }
+  ],
+  "text:piyo ji bhar ke": [
+    {
+      "type": "text",
+      "data": "Hu"
+    }
+  ],
+  "text:daru  hota hai 😂🤣": [
+    {
+      "type": "text",
+      "data": "Piyo ji bhar ke"
+    }
+  ],
+  "text:main kyon khaunga mujhe ghar pe khana milta hai aap apne fantasy mat batao": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADsRIAAqZBeFXU_1wkhxZcZgI"
+    }
+  ],
+  "text:no": [
+    {
+      "type": "text",
+      "data": "Yes"
+    },
+    {
+      "type": "text",
+      "data": "Kyu"
+    },
+    {
+      "type": "text",
+      "data": "To phr v naturally cute ho"
+    }
+  ],
+  "text:bhau kyu kha rahi ho": [
+    {
+      "type": "text",
+      "data": "Main kyon khaunga Mujhe Ghar pe khana milta hai aap apne fantasy mat batao"
+    }
+  ],
+  "text:lal pari mangva do😂😂": [
+    {
+      "type": "text",
+      "data": "Vo kaha h"
+    }
+  ],
+  "text:my pleasure enjoy your night with yourself 💫": [
+    {
+      "type": "text",
+      "data": "Bhau kyu kha rahi ho"
+    }
+  ],
+  "text:me bata dugi jab tak sab kuch bhai": [
+    {
+      "type": "text",
+      "data": "No"
+    },
+    {
+      "type": "text",
+      "data": "Wlc"
+    }
+  ],
+  "text:wlc": [
+    {
+      "type": "text",
+      "data": "Hii"
+    }
+  ],
+  "text:tq": [
+    {
+      "type": "text",
+      "data": "My pleasure enjoy your night with yourself 💫"
+    }
+  ],
+  "text:@bsnp4 welcome dear 💫🦋": [
+    {
+      "type": "text",
+      "data": "Tq"
+    }
+  ],
+  "text:😂": [
+    {
+      "type": "sticker",
+      "data": "CAADBAADTgsAAmQFWFOJP3rxrOrwxAI"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADAQADXwMAAlEpDTmT1kd4D_HTzwI"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQAD_hcAAkz5GFcugmbDw6dyiwI"
+    }
+  ],
+  "text:haa haa 4 dino me bahut kch ho gaya ....to ab flirt hi baaki h n😁😂😂🫣": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADIwQAAq5HUVeRhKWXxNaLiAI"
+    }
+  ],
+  "text:flirt aur kuch nahi 😁": [
+    {
+      "type": "text",
+      "data": "Haa haa 4 dino me bahut kch ho gaya ....to ab flirt hi baaki h n😁😂😂🫣"
+    }
+  ],
+  "text:are kya kya krne bol rhi ho": [
+    {
+      "type": "text",
+      "data": "Flirt aur kuch nahi 😁"
+    }
+  ],
+  "text:to kar na 😂": [
+    {
+      "type": "text",
+      "data": "Are kya kya krne bol rhi ho"
+    }
+  ],
+  "sticker:CAADBQADLQUAAndQWVfgAAFMCFywRUUC": [
+    {
+      "type": "text",
+      "data": "Haa karega q n karega🤭🫣🫣"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQADIAYAAmqfUVeR-q2IhDmQUwI"
+    },
+    {
+      "type": "text",
+      "data": "Bilkul karunga🌚"
+    }
+  ],
+  "sticker:CAADBQADFBEAAhjxeFX5EM9c240SdAI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADLQUAAndQWVfgAAFMCFywRUUC"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQADsRIAAqZBeFXU_1wkhxZcZgI"
+    }
+  ],
+  "sticker:CAADBAADyREAAqbxcR45VRe-CRK4KQI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADKQQAAqZMWVe9vVQkTVWcTAI"
+    }
+  ],
+  "text:ky bola tha": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADFBEAAhjxeFX5EM9c240SdAI"
+    }
+  ],
+  "sticker:BAADBQADWAMAAgmHuFc-lCDDHn9R6gI": [
+    {
+      "type": "sticker",
+      "data": "CAADBAADyREAAqbxcR45VRe-CRK4KQI"
+    }
+  ],
+  "text:kuch bola tha 🤨🤨": [
+    {
+      "type": "text",
+      "data": "Ky bola tha"
+    }
+  ],
+  "text:tripathiwa ki trh hi h bot v": [
+    {
+      "type": "text",
+      "data": "Kuch bola tha 🤨🤨"
+    }
+  ],
+  "text:🤨🤨": [
+    {
+      "type": "sticker",
+      "data": "BAADBQADWAMAAgmHuFc-lCDDHn9R6gI"
+    }
+  ],
+  "text:tripathi 😂": [
+    {
+      "type": "text",
+      "data": "Tripathiwa ki trh hi h bot v"
+    }
+  ],
+  "sticker:CAADBQADQgcAArh96FZMYNO4L-BZDwI": [
+    {
+      "type": "text",
+      "data": "🤨🤨"
+    }
+  ],
+  "text:bhkk": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADQgcAArh96FZMYNO4L-BZDwI"
+    }
+  ],
+  "text:@bad_king_ki_choice_op ye chutiya bot kon la rha h yha": [
+    {
+      "type": "text",
+      "data": "Tripathi 😂"
+    }
+  ],
+  "text:bot hai": [
+    {
+      "type": "text",
+      "data": "Han pta h tbhi to wlcome kya😂😂😂"
+    }
+  ],
+  "sticker:CAADBQAD4A8AAsIUeVX8WzcyMC3_bQI": [
+    {
+      "type": "text",
+      "data": "Bhkk"
+    }
+  ],
+  "text:welcome ji": [
+    {
+      "type": "text",
+      "data": "Bot hai"
+    }
+  ],
+  "text:hnji bnao": [
+    {
+      "type": "text",
+      "data": "OK phle on to aaya kro aap"
+    }
+  ],
+  "text:thik h rhne diya, ja simran jee le apni jindagi 😂😂": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADQRMAAh4JcFXPaSsAAUwZY1IC"
+    }
+  ],
+  "text:rehne do tum 😏": [
+    {
+      "type": "text",
+      "data": "Thik h rhne diya, ja simran jee le apni jindagi 😂😂"
+    }
+  ],
+  "text:kahi bhi 😑": [
+    {
+      "type": "text",
+      "data": "Q"
+    }
+  ],
+  "text:jii": [
+    {
+      "type": "text",
+      "data": "Han ji"
+    },
+    {
+      "type": "text",
+      "data": "Sahi hai enjoy"
+    },
+    {
+      "type": "text",
+      "data": "Krh"
+    },
+    {
+      "type": "text",
+      "data": "@dark_web_hdn_hacker_indian_help \nIsse baat kr lo ro rha hai"
+    }
+  ],
+  "text:sahi hai enjoy": [
+    {
+      "type": "text",
+      "data": "Jii"
+    }
+  ],
+  "text:khqcchli": [
+    {
+      "type": "text",
+      "data": "Kahi bhi 😑"
+    }
+  ],
+  "text:ohh that's good": [
+    {
+      "type": "text",
+      "data": "Jii"
+    }
+  ],
+  "text:@stripathi97 bye 👋": [
+    {
+      "type": "text",
+      "data": "Khqcchli"
+    }
+  ],
+  "text:presently in karnataka": [
+    {
+      "type": "text",
+      "data": "Ohh that's good"
+    }
+  ],
+  "text:okay ji... kahan se ho aap👀": [
+    {
+      "type": "text",
+      "data": "Presently in Karnataka"
+    }
+  ],
+  "text:bilkul bhi nahin kuch hona bhi chahiye tumhara pass..💀": [
+    {
+      "type": "text",
+      "data": "Ok sir 👍"
+    }
+  ],
+  "text:ntng": [
+    {
+      "type": "text",
+      "data": "Okay ji... Kahan se ho aap👀"
+    }
+  ],
+  "text:kkrh 👀": [
+    {
+      "type": "text",
+      "data": "Ntng"
+    }
+  ],
+  "text:👀👀jii": [
+    {
+      "type": "text",
+      "data": "Kkrh 👀"
+    }
+  ],
+  "text:my pleasure enjoy your night with yourself ✨ what'suep dear....?": [
+    {
+      "type": "text",
+      "data": "👀👀jii"
+    }
+  ],
+  "text:@bad_king_ki_choice_op ye insaan": [
+    {
+      "type": "text",
+      "data": "Bilkul bhi nahin kuch hona bhi chahiye tumhara pass..💀"
+    }
+  ],
+  "text:thank you jii 😊✨": [
+    {
+      "type": "text",
+      "data": "My pleasure enjoy your night with yourself ✨ what'suep dear....?"
+    }
+  ],
+  "text:haa haa jb ghr me pyar km milta to log jiddi bn jaate hai": [
+    {
+      "type": "text",
+      "data": "😒😒Mere ghar wale bhut pyar krte h"
+    }
+  ],
+  "text:ghoda": [
+    {
+      "type": "text",
+      "data": "Gadha"
+    },
+    {
+      "type": "text",
+      "data": "Nhii"
+    }
+  ],
+  "text:dil pr hath rakh do uske": [
+    {
+      "type": "text",
+      "data": "No"
+    }
+  ],
+  "text:😒😒mere ghar wale bhut pyar krte h": [
+    {
+      "type": "text",
+      "data": "Haa haa tb n ....itni jiddi ho gayi kya"
+    }
+  ],
+  "text:hathi": [
+    {
+      "type": "text",
+      "data": "Nhii"
+    }
+  ],
+  "text:anaconda": [
+    {
+      "type": "text",
+      "data": "Nhii"
+    }
+  ],
+  "text:itna time nhi h faltu": [
+    {
+      "type": "text",
+      "data": "Achha"
+    }
+  ],
+  "text:haa haa tb n ....itni jiddi ho gayi": [
+    {
+      "type": "text",
+      "data": "Haa"
+    }
+  ],
+  "text:achha": [
+    {
+      "type": "text",
+      "data": "Hm"
+    }
+  ],
+  "text:otte": [
+    {
+      "type": "text",
+      "data": "Ji"
+    }
+  ],
+  "text:💔💔💔😭😭": [
+    {
+      "type": "text",
+      "data": "@ziddi_072 \nBechara to rha hai dekho na"
+    }
+  ],
+  "text:jiddi ho shi ho pr thora pyar to hoga n tum me ya wo v nhi h😂😂🧸🧸": [
+    {
+      "type": "text",
+      "data": "Nhii h pyar Mai khud se nhi krte to aur kisise kya krungi"
+    }
+  ],
+  "text:@ziddi_072 \nbechara to rha hai dekho na": [
+    {
+      "type": "text",
+      "data": "Nhii😒"
+    }
+  ],
+  "text:nhii h pyar mai khud se nhi krte to aur kisise kya krungi": [
+    {
+      "type": "text",
+      "data": "Kyu @dark_web_hdn_hacker_indian_help \nIsse kr lo to"
+    },
+    {
+      "type": "text",
+      "data": "Phr to bekar hi jinda ho yrr...jis me pyar nhi uski jindgi bekar"
+    }
+  ],
+  "text:ghoda gadha": [
+    {
+      "type": "text",
+      "data": "Nhi psnd \n\nLion psnd g"
+    }
+  ],
+  "text:kyu @dark_web_hdn_hacker_indian_help \nisse kr lo to": [
+    {
+      "type": "text",
+      "data": "Not interested"
+    }
+  ],
+  "text:not interested": [
+    {
+      "type": "text",
+      "data": "Why"
+    }
+  ],
+  "text:nhi psnd \n\nlion psnd g": [
+    {
+      "type": "text",
+      "data": "sher k kitne legs hote h"
+    }
+  ],
+  "text:nhii😒": [
+    {
+      "type": "text",
+      "data": "Aisi baat hai kya"
+    }
+  ],
+  "text:📦 scanning: 9000/10000 messages...\n🧠 learned replies: 1479": [
+    {
+      "type": "text",
+      "data": "@Manutripathi56"
+    }
+  ],
+  "text:phr to bekar hi jinda ho yrr...jis me pyar nhi uski jindgi bekar": [
+    {
+      "type": "text",
+      "data": "Ha marna chahti hu pr ghar walo ki beizzati hogi galat kadam uthayi to"
+    }
+  ],
+  "text:aisi baat hai kya": [
+    {
+      "type": "text",
+      "data": "Haa"
+    }
+  ],
+  "text:/learn": [
+    {
+      "type": "text",
+      "data": "🚫 You are not authorized to use this command."
+    }
+  ],
+  "text:ha marna chahti hu pr ghar walo ki beizzati hogi galat kadam uthayi to": [
+    {
+      "type": "text",
+      "data": "Good girl"
+    },
+    {
+      "type": "text",
+      "data": "Ayesa kya kand kr di ho jo mrne ki soch rhi pgl"
+    },
+    {
+      "type": "text",
+      "data": "😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡"
+    }
+  ],
+  "text:sher k kitne legs hote h": [
+    {
+      "type": "text",
+      "data": "Kyu"
+    }
+  ],
+  "text:good girl": [
+    {
+      "type": "text",
+      "data": "Jii"
+    }
+  ],
+  "text:krh": [
+    {
+      "type": "text",
+      "data": "Kya"
+    }
+  ],
+  "text:ayesa kya kand kr di ho jo mrne ki soch rhi pgl": [
+    {
+      "type": "text",
+      "data": "😒😒kuch nhii bss kbhi kbhi gussa jyada aata h"
+    }
+  ],
+  "text:kya kar rhi ho": [
+    {
+      "type": "text",
+      "data": "Song sun rhe"
+    }
+  ],
+  "text:song sun rhe": [
+    {
+      "type": "text",
+      "data": "Kaha par"
+    }
+  ],
+  "text:@dark_web_hdn_hacker_indian_help \nisse baat kr lo ro rha hai": [
+    {
+      "type": "text",
+      "data": "No way"
+    }
+  ],
+  "text:no way": [
+    {
+      "type": "text",
+      "data": "Kuchh baat hai kya"
+    }
+  ],
+  "text:😒😒kuch nhii bss kbhi kbhi gussa jyada aata h": [
+    {
+      "type": "text",
+      "data": "Haa to wo human nature hai us me mrne ki kon si baat"
+    }
+  ],
+  "text:kaha par": [
+    {
+      "type": "text",
+      "data": "Spotify"
+    }
+  ],
+  "text:spotify": [
+    {
+      "type": "text",
+      "data": "Oooo"
+    },
+    {
+      "type": "text",
+      "data": "Hamko bhi suna do fir"
+    }
+  ],
+  "text:kuchh baat hai kya": [
+    {
+      "type": "text",
+      "data": "Kya"
+    }
+  ],
+  "text:hamko bhi suna do fir": [
+    {
+      "type": "text",
+      "data": "Nhii"
+    }
+  ],
+  "text:chup": [
+    {
+      "type": "text",
+      "data": "😂"
+    }
+  ],
+  "text:✅ learning complete!\n📘 processed: 9908\n🧠 new replies learned: 2010": [
+    {
+      "type": "text",
+      "data": "@Manutripathi56"
+    }
+  ],
+  "text:haa to wo human nature hai us me mrne ki kon si baat": [
+    {
+      "type": "text",
+      "data": "Mujhe bhut aata h"
+    }
+  ],
+  "text:ye to bot v branded ka bhai nikla": [
+    {
+      "type": "text",
+      "data": "😂😂"
+    }
+  ],
+  "text:mujhe bhut aata h": [
+    {
+      "type": "text",
+      "data": "Uska upaye khojo n pgl"
+    }
+  ],
+  "text:/learn 500": [
+    {
+      "type": "text",
+      "data": "📚 Learning from last 500 messages..."
+    }
+  ],
+  "text:uska upaye khojo n pgl": [
+    {
+      "type": "text",
+      "data": "Nhi h"
+    }
+  ],
+  "sticker:CAADAQADXwMAAlEpDTmT1kd4D_HTzwI": [
+    {
+      "type": "sticker",
+      "data": "CAADAQADWQEAAlEpDTk_YloWpQpRPwI"
+    }
+  ],
+  "text:/learn 2500": [
+    {
+      "type": "text",
+      "data": "🚫 You are not authorized to use this command."
+    }
+  ],
+  "text:achha ji": [
+    {
+      "type": "text",
+      "data": "Ha ji"
+    }
+  ],
+  "text:🚫 you are not authorized to use this command.": [
+    {
+      "type": "text",
+      "data": "😐😐"
+    }
+  ],
+  "sticker:CAADAQADWQEAAlEpDTk_YloWpQpRPwI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADiQgAAnlyCVb9JANUo-1O6wI"
+    }
+  ],
+  "text:nhi h": [
+    {
+      "type": "text",
+      "data": "Tumhe pyar ki jarurat hai unblock kr dena tum😁😂😁"
+    }
+  ],
+  "sticker:CAADBQADiQgAAnlyCVb9JANUo-1O6wI": [
+    {
+      "type": "text",
+      "data": "😂"
+    },
+    {
+      "type": "text",
+      "data": "kam se kam wo surf k layak h tum to harpics se dhul lo"
+    }
+  ],
+  "sticker:CAADBAADTgsAAmQFWFOJP3rxrOrwxAI": [
+    {
+      "type": "sticker",
+      "data": "CAADBAADvQsAAtgnWVNruVAEkZExgAI"
+    }
+  ],
+  "text:tumhe pyar ki jarurat hai unblock kr dena tum😁😂😁": [
+    {
+      "type": "text",
+      "data": "Kbhi nhi krungi apna pyar apne pas rkhe"
+    }
+  ],
+  "text:kam se kam wo surf k layak h tum to harpics se dhul lo": [
+    {
+      "type": "text",
+      "data": "Aapse bhut jyada accha h"
+    }
+  ],
+  "text:aapse bhut jyada accha h": [
+    {
+      "type": "text",
+      "data": "dikhao apni"
+    },
+    {
+      "type": "text",
+      "data": "Hain sachhi"
+    }
+  ],
+  "sticker:CAADBQAD_hcAAkz5GFcugmbDw6dyiwI": [
+    {
+      "type": "sticker",
+      "data": "BAADBQADhA0AAu9f8FSJZ3OXMFNmPgI"
+    }
+  ],
+  "text:kbhi nhi krungi apna pyar apne pas rkhe": [
+    {
+      "type": "text",
+      "data": "Ok ...sorry jo shi lage karo gd nyt😁😁😁"
+    }
+  ],
+  "text:dikhao apni": [
+    {
+      "type": "text",
+      "data": "Sapne me bhi mt sochna"
+    }
+  ],
+  "text:ok ...sorry jo shi lage karo gd nyt😁😁😁": [
+    {
+      "type": "text",
+      "data": "Ok good night"
+    }
+  ],
+  "sticker:BAADBQADhA0AAu9f8FSJZ3OXMFNmPgI": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADjxYAAjCXQVVLr_PLlrILIgI"
+    }
+  ],
+  "text:sapne me bhi mt sochna": [
+    {
+      "type": "text",
+      "data": "ha to bains ki shakal"
+    }
+  ],
+  "text:ok good night": [
+    {
+      "type": "text",
+      "data": "Ho gya na aap ka jao so jao"
+    },
+    {
+      "type": "text",
+      "data": "Jaa jaau nhi to mummy daategi tumhe"
+    }
+  ],
+  "text:ho gya na aap ka jao so jao": [
+    {
+      "type": "text",
+      "data": "Kya ho gya 😳😳😳😳😳😳😳😳😳😳"
+    },
+    {
+      "type": "text",
+      "data": "Itne jaldi ho gya sirf 2 mnt me hi 😳😳😳😳😳😳😳😳😳"
+    }
+  ],
+  "text:hain sachhi": [
+    {
+      "type": "text",
+      "data": "Ab bs karo"
+    },
+    {
+      "type": "text",
+      "data": "Haa"
+    }
+  ],
+  "text:ab bs karo": [
+    {
+      "type": "text",
+      "data": "Kyaaa"
+    }
+  ],
+  "text:ha to bains ki shakal": [
+    {
+      "type": "text",
+      "data": "Jaisi bhi h khud ke liye acchi hu logo ko burai hi dikhti h acchai nhi"
+    }
+  ],
+  "text:jaisi bhi h khud ke liye acchi hu logo ko burai hi dikhti h acchai nhi": [
+    {
+      "type": "text",
+      "data": "Kaha na offline jao 🥹🥹😡😡😡😡😡😡😡"
+    },
+    {
+      "type": "text",
+      "data": "aisi kon si achchai dikhaya jabse dekh rha hu lad rhi ho"
+    },
+    {
+      "type": "text",
+      "data": "Are hme to kch n dhikha...tum dhikhau to shi tb n achai or burai pta chalega"
+    }
+  ],
+  "text:dikhao": [
+    {
+      "type": "text",
+      "data": "Not interested"
+    }
+  ],
+  "text:itne jaldi ho gya sirf 2 mnt me hi 😳😳😳😳😳😳😳😳😳": [
+    {
+      "type": "text",
+      "data": "Dekh bhai mood kharab h bhut"
+    },
+    {
+      "type": "text",
+      "data": "😂"
+    }
+  ],
+  "text:dekh bhai mood kharab h bhut": [
+    {
+      "type": "text",
+      "data": "Aap mood banwau 😂😂😂😍😍😍"
+    },
+    {
+      "type": "sticker",
+      "data": "BAADBQAD2A4AAhlK0VSq1A0VeWeo1gI"
+    }
+  ],
+  "text:id dlet krke bhag jaunga me": [
+    {
+      "type": "text",
+      "data": "Kyu babu"
+    }
+  ],
+  "text:aisi kon si achchai dikhaya jabse dekh rha hu lad rhi ho": [
+    {
+      "type": "text",
+      "data": "Acche se baat krna kisiko accha nhi lgta ek ko chhod kr aur kisse lade?"
+    }
+  ],
+  "text:aap mood banwau 😂😂😂😍😍😍": [
+    {
+      "type": "text",
+      "data": "Acha mood banvana hai tumhe"
+    }
+  ],
+  "text:acha mood banvana hai tumhe": [
+    {
+      "type": "text",
+      "data": "Naa branded kaa"
+    }
+  ],
+  "text:are hme to kch n dhikha...tum dhikhau to shi tb n achai or burai pta chalega": [
+    {
+      "type": "text",
+      "data": "Kyu"
+    }
+  ],
+  "text:naa branded kaa": [
+    {
+      "type": "text",
+      "data": "Wo experience banda hai ....bna lega"
+    }
+  ],
+  "text:acche se baat krna kisiko accha nhi lgta ek ko chhod kr aur kisse lade?": [
+    {
+      "type": "text",
+      "data": "Ab ja rhi ho ya btau aap ko.zada ho gya ab aap.ka block.kr. diya phir q ho jao.🥹😡😡😡😡😡"
+    }
+  ],
+  "text:wo experience banda hai ....bna lega": [
+    {
+      "type": "text",
+      "data": "Uske liye hai to massom bachhi"
+    }
+  ],
+  "text:kch nhi tb n pta chalega tum me ktni achai hai": [
+    {
+      "type": "text",
+      "data": "Bilkul nhi"
+    }
+  ],
+  "text:ab ja rhi ho ya btau aap ko.zada ho gya ab aap.ka block.kr. diya phir q ho jao.🥹😡😡😡😡😡": [
+    {
+      "type": "text",
+      "data": "Kya ho gya jyada 😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳"
+    }
+  ],
+  "sticker:CAADBQAD8gQAAs6uUVfIDbVT1NCICwI": [
+    {
+      "type": "text",
+      "data": "Babu 😍"
+    },
+    {
+      "type": "sticker",
+      "data": "BAADBQADKwwAAptD8FRiU7vInmYIwQI"
+    },
+    {
+      "type": "sticker",
+      "data": "CAADBQADIwQAAq5HUVeRhKWXxNaLiAI"
+    }
+  ],
+  "text:kya ho gya jyada 😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳": [
+    {
+      "type": "text",
+      "data": "Abe hramkhor mood k kharab ho gya"
+    }
+  ],
+  "text:bilkul nhi": [
+    {
+      "type": "text",
+      "data": "Ok bachi tum bari kb hogi ye bta do😂😁😁"
+    },
+    {
+      "type": "text",
+      "data": "Kya krti ho 24 hour"
+    }
+  ],
+  "text:abe hramkhor mood k kharab ho gya": [
+    {
+      "type": "text",
+      "data": "Mood me bhi hota hai kya 😍😳😳"
+    }
+  ],
+  "text:babu 😍": [
+    {
+      "type": "text",
+      "data": "Ha bolo"
+    }
+  ],
+  "text:ok bachi tum bari kb hogi ye bta do😂😁😁": [
+    {
+      "type": "text",
+      "data": "Nhi pta 😭😭"
+    }
+  ],
+  "text:ha bolo": [
+    {
+      "type": "text",
+      "data": "Kaa kar rhi ho"
+    }
+  ],
+  "sticker:BAADBQADKwwAAptD8FRiU7vInmYIwQI": [
+    {
+      "type": "sticker",
+      "data": "BAADBQADtQ8AAgNryVTq6CHe26nwCQI"
+    },
+    {
+      "type": "text",
+      "data": "×͜×A𝘭o͟n̬̤̯ꍟ❤s͙⒣@d⋆o̠w͟모 itna cute😂😂"
+    }
+  ],
+  "sticker:BAADBAADpA4AAgjDuFObyXOUq5BcnQI": [
+    {
+      "type": "sticker",
+      "data": "BAADBAADwhAAAhhDwVNsKOKIt8Vi-wI"
+    },
+    {
+      "type": "text",
+      "data": "Gd nyt ...hm c chalte h subah milte h"
+    }
+  ],
+  "text:to phr v naturally cute ho": [
+    {
+      "type": "text",
+      "data": "Hm"
+    }
+  ],
+  "text:×͜×a𝘭o͟n̬̤̯ꍟ❤s͙⒣@d⋆o̠w͟모 itna cute😂😂": [
+    {
+      "type": "text",
+      "data": "Haa tb hi n ...n makeup n facial"
+    }
+  ],
+  "text:haa tb hi n ...n makeup n facial": [
+    {
+      "type": "text",
+      "data": "Shi kha"
+    }
+  ],
+  "text:shi kha": [
+    {
+      "type": "text",
+      "data": "Itni jldi kaise uth gayi sweet ....kand kya hai batana🫣😂😁😁10 min ki nind ba"
+    }
+  ],
+  "text:itni jldi kaise uth gayi sweet ....kand kya hai batana🫣😂😁😁10 min ki nind bs": [
+    {
+      "type": "sticker",
+      "data": "CAADBAADshcAAtLLCFL28wyl4TLBKQI"
+    }
+  ],
+  "text:gd nyt ...hm c chalte h subah milte h": [
+    {
+      "type": "text",
+      "data": "Okk brother ❤️😅 \nGood night"
+    }
+  ],
+  "text:okk brother ❤️😅 \ngood night": [
+    {
+      "type": "text",
+      "data": "Haa haa khote baala hota n wo🫣😂😁"
+    }
+  ],
+  "text:haa haa khote baala hota n wo🫣😂😁": [
+    {
+      "type": "text",
+      "data": "Khoote"
+    },
+    {
+      "type": "text",
+      "data": "Are Smja gaya m dusre ko thori smjana h"
+    }
+  ],
+  "text:are smja gaya m dusre ko thori smjana h": [
+    {
+      "type": "text",
+      "data": "😅"
+    }
+  ],
+  "sticker:BAADBQAD0AwAAozH0FTnNghhZIfJGgI": [
+    {
+      "type": "sticker",
+      "data": "BAADBQADgg4AAmBG8FTKXcFjObFTKQI"
+    }
+  ],
+  "sticker:BAADBQADgg4AAmBG8FTKXcFjObFTKQI": [
+    {
+      "type": "sticker",
+      "data": "BAADAQADQAQAAnsiuEbqCXIPJNysaQI"
+    },
+    {
+      "type": "text",
+      "data": "Aa gayi ek round kr ke 🫣😂😁"
+    }
+  ],
+  "text:khoote": [
+    {
+      "type": "text",
+      "data": "Kya chal raha hai 😂🤣"
+    }
+  ],
+  "text:aa gayi ek round kr ke 🫣😂😁": [
+    {
+      "type": "text",
+      "data": "Kya chij"
+    }
+  ],
+  "text:kya chal raha hai 😂🤣": [
+    {
+      "type": "text",
+      "data": "Wahi jo chal a chahiye"
+    },
+    {
+      "type": "text",
+      "data": "Chalogi lys tum v"
+    }
+  ],
+  "text:chalogi lys tum v": [
+    {
+      "type": "text",
+      "data": "Htt"
+    }
+  ],
+  "text:bdhiya h bta di": [
+    {
+      "type": "text",
+      "data": "Ok good night"
+    },
+    {
+      "type": "text",
+      "data": "Kash tm video call pe bhi kuch dikha pati 🥹"
+    }
+  ],
+  "sticker:BAADAQADQAQAAnsiuEbqCXIPJNysaQI": [
+    {
+      "type": "text",
+      "data": "Bas kar 🤣"
+    }
+  ],
+  "text:jaa jaau nhi to mummy daategi tumhe": [
+    {
+      "type": "text",
+      "data": "Nhii"
+    }
+  ],
+  "text:bas kar 🤣": [
+    {
+      "type": "text",
+      "data": "Kya kr diya jo bas krne bol rhi"
+    }
+  ],
+  "text:kya kr diya jo bas krne bol rhi": [
+    {
+      "type": "text",
+      "data": "Kuch nahi ja 😁😂"
+    }
+  ],
+  "text:kuch nahi ja 😁😂": [
+    {
+      "type": "text",
+      "data": "Sb smj rhe ...kr lo or kya"
+    }
+  ],
+  "text:sb smj rhe ...kr lo or kya": [
+    {
+      "type": "text",
+      "data": "Htt burbak 🤣"
+    }
+  ],
+  "text:kahe nhi": [
+    {
+      "type": "text",
+      "data": "Kya"
+    }
+  ],
+  "text:htt burbak 🤣": [
+    {
+      "type": "text",
+      "data": "Are satte rhne do n ...kch der"
+    }
+  ],
+  "text:ab itni samajdar lrki se hm bole g": [
+    {
+      "type": "text",
+      "data": "Mt boliyega"
+    },
+    {
+      "type": "text",
+      "data": "Wohi to wo maanti hi nhi ki samajdar hai"
+    }
+  ],
+  "text:mt boliyega": [
+    {
+      "type": "text",
+      "data": "Kya"
+    }
+  ],
+  "text:are satte rhne do n ...kch der": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADTBEAApM28FcwFkWv83A6RAI"
+    }
+  ],
+  "text:wahi jo chal a chahiye": [
+    {
+      "type": "sticker",
+      "data": "BAADBQADYREAAkyqyFT-1EWE6hMqcwI"
+    }
+  ],
+  "sticker:CAADBQADTBEAApM28FcwFkWv83A6RAI": [
+    {
+      "type": "text",
+      "data": "Dil se hote hue ye samander bah jaane do"
+    }
+  ],
+  "text:kuch n": [
+    {
+      "type": "text",
+      "data": "Thk h g....or batau av tk ktna breakup hua h"
+    },
+    {
+      "type": "text",
+      "data": "Arpita naam h waah"
+    }
+  ],
+  "text:thk h g....or batau av tk ktna breakup hua h": [
+    {
+      "type": "text",
+      "data": "Boli na mujhe kisike dil ya life se khelne ka shauk nhi"
+    }
+  ],
+  "text:arpita naam h waah": [
+    {
+      "type": "text",
+      "data": "Thanks"
+    }
+  ],
+  "text:dil se hote hue ye samander bah jaane do niche ki trf": [
+    {
+      "type": "text",
+      "data": "Chal tujhe asali samundar me dubo dalo🤣😁"
+    }
+  ],
+  "text:boli na mujhe kisike dil ya life se khelne ka shauk nhi": [
+    {
+      "type": "text",
+      "data": "Kon bol rha khelna tumhe"
+    }
+  ],
+  "text:chal tujhe asali samundar me dubo dalo🤣😁": [
+    {
+      "type": "text",
+      "data": "Kha chale bol to shi"
+    }
+  ],
+  "text:kha chale bol to shi": [
+    {
+      "type": "text",
+      "data": "Marine drive sidha ganga ji ke🤣🤣"
+    }
+  ],
+  "text:marine drive sidha ganga ji ke🤣🤣": [
+    {
+      "type": "text",
+      "data": "Teri jawani kisi Marine drive se km h kya🫣😁😁"
+    }
+  ],
+  "text:kon bol rha khelna tumhe": [
+    {
+      "type": "text",
+      "data": "To bf kyu jisse family chahe usise shadi kro kisi ladke ki life khatam krna meri aadat nhi\n\nAgr mujhse koi jyada close hota h to Mai dur ho jati hu kyuki meri wajah se koi sad ho mujhe nhi psnd"
+    }
+  ],
+  "text:wlcm g....or batau aage ki pdhai kya krni h": [
+    {
+      "type": "text",
+      "data": "Pharmacy"
+    }
+  ],
+  "text:to bf kyu jisse family chahe usise shadi kro kisi ladke ki life khatam krna meri aadat nhi\n\nagr mujhse koi jyada close hota h to mai dur ho jati hu kyuki meri wajah se koi sad ho mujhe nhi psnd": [
+    {
+      "type": "text",
+      "data": "Htt hm frndship baala bole saadi baale to mummy papa hi khojenge"
+    },
+    {
+      "type": "text",
+      "data": "Woww"
+    },
+    {
+      "type": "text",
+      "data": "Agar wo ish chiz se udas ho gya fir 😢😢"
+    }
+  ],
+  "text:pharmacy": [
+    {
+      "type": "text",
+      "data": "Acha g ...."
+    }
+  ],
+  "text:htt hm frndship baala bole saadi baale to mummy papa hi khojenge": [
+    {
+      "type": "text",
+      "data": "Nhii itna time nhi h mere pas"
+    }
+  ],
+  "text:acha g ....": [
+    {
+      "type": "text",
+      "data": "Hm"
+    }
+  ],
+  "text:nhii itna time nhi h mere pas": [
+    {
+      "type": "text",
+      "data": "To ktna tym h batana"
+    }
+  ],
+  "text:woww": [
+    {
+      "type": "text",
+      "data": "Ji"
+    }
+  ],
+  "text:agar wo ish chiz se udas ho gya fir 😢😢": [
+    {
+      "type": "text",
+      "data": "Sacrifice family ke liye krna galat nhi h"
+    }
+  ],
+  "text:to ktna tym h batana": [
+    {
+      "type": "text",
+      "data": "Bilkul nhi"
+    }
+  ],
+  "text:woww kyaa baat h aap kaha thi itne dinoo se": [
+    {
+      "type": "text",
+      "data": "Mai kahi bhi thi Usse kya"
+    }
+  ],
+  "text:sacrifice family ke liye krna galat nhi h": [
+    {
+      "type": "text",
+      "data": "Are mtlb koi h pr family ke karan accept n kr rhi ho"
+    },
+    {
+      "type": "text",
+      "data": "Family ne apke liye sacrifice nhi kra fir? 🥲"
+    }
+  ],
+  "text:are mtlb koi h pr family ke karan accept n kr rhi ho": [
+    {
+      "type": "text",
+      "data": "Aisa nhi h"
+    }
+  ],
+  "text:kya krti ho 24 hour": [
+    {
+      "type": "text",
+      "data": "Kuch nhi"
+    }
+  ],
+  "text:mai kahi bhi thi usse kya": [
+    {
+      "type": "text",
+      "data": "Agar wo sad ho gai tho? Aise bat krti ho? 🥲"
+    },
+    {
+      "type": "text",
+      "data": "Kyuki aapki idhar bhut jada zarurat thi shyd aap hoti to shyd telegram itna jada bekar nh hota na"
+    }
+  ],
+  "text:kuch nhi": [
+    {
+      "type": "text",
+      "data": "Phr v tym nhi kisko deti ho 24 ghanta tum"
+    }
+  ],
+  "text:aisa nhi h": [
+    {
+      "type": "text",
+      "data": "To kaisa h phr"
+    }
+  ],
+  "text:\"koi sad hoga meri wjh se mujhe psnd nhi\"": [
+    {
+      "type": "text",
+      "data": "Chup rho tum"
+    }
+  ],
+  "text:family ne apke liye sacrifice nhi kra fir? 🥲": [
+    {
+      "type": "text",
+      "data": "Kyu 20 .25 saal wo aapki har khushi ka dhyan rkhte h to shadi bhi acche insan se karayenge"
+    }
+  ],
+  "text:agar wo sad ho gai tho? aise bat krti ho? 🥲": [
+    {
+      "type": "text",
+      "data": "Haa"
+    }
+  ],
+  "text:kyuki aapki idhar bhut jada zarurat thi shyd aap hoti to shyd telegram itna jada bekar nh hota na": [
+    {
+      "type": "text",
+      "data": "Thanks but mujhe aapki suggestions ki jrurat nh"
+    }
+  ],
+  "text:kyu 20 .25 saal wo aapki har khushi ka dhyan rkhte h to shadi bhi acche insan se karayenge": [
+    {
+      "type": "text",
+      "data": "Bilkul shi boli .... support v karenge shi ya glt hone pr"
+    },
+    {
+      "type": "text",
+      "data": "Or jo 60 apke sath khus rhna chahta h ushka kya. 😢 Ushko sad kar dogi?"
+    }
+  ],
+  "text:thanks but mujhe aapki suggestions ki jrurat nh": [
+    {
+      "type": "text",
+      "data": "To faltu ka gyan mt do idhar"
+    },
+    {
+      "type": "text",
+      "data": "Exactly, budhi ki jarurat h, suggestion ki nhi😢"
+    }
+  ],
+  "text:to kaisa h phr": [
+    {
+      "type": "text",
+      "data": "Personal life share krne me interested nhi hu"
+    }
+  ],
+  "text:to faltu ka gyan mt do idhar": [
+    {
+      "type": "text",
+      "data": "Aapko di kya"
+    }
+  ],
+  "text:bilkul shi boli .... support v karenge shi ya glt hone pr": [
+    {
+      "type": "text",
+      "data": "Hm"
+    }
+  ],
+  "text:aapko di kya": [
+    {
+      "type": "text",
+      "data": "Idhar gyan chodo gi to sunogi"
+    }
+  ],
+  "text:personal life share krne me interested nhi hu": [
+    {
+      "type": "text",
+      "data": "Share krne kon bol rha...sbhi ki lyf me prblm hai to kon baith kr dairy likh rha"
+    },
+    {
+      "type": "text",
+      "data": "But fake dp laga skti hu"
+    }
+  ],
+  "text:hme q block ki tum": [
+    {
+      "type": "text",
+      "data": "Kuki wo women h bro"
+    },
+    {
+      "type": "text",
+      "data": "Kyuki tum usko buddhi de rhe the"
+    },
+    {
+      "type": "text",
+      "data": "Iss group ke har member ko"
+    }
+  ],
+  "text:kuki wo women h bro": [
+    {
+      "type": "text",
+      "data": "To mai bola men h"
+    }
+  ],
+  "text:kash tm video call pe bhi kuch dikha pati 🥹": [
+    {
+      "type": "text",
+      "data": "Acha kya dekhna h vc pr"
+    }
+  ],
+  "text:iss group ke har member ko": [
+    {
+      "type": "text",
+      "data": "Hii"
+    },
+    {
+      "type": "text",
+      "data": "Thk h phr return gift le lo"
+    },
+    {
+      "type": "text",
+      "data": "Kilas gyi kya"
+    }
+  ],
+  "text:to mai bola men h": [
+    {
+      "type": "text",
+      "data": "Puche swal ushka jabab tha"
+    }
+  ],
+  "text:acha kya dekhna h vc pr": [
+    {
+      "type": "text",
+      "data": "Sagar jaisi aankhe"
+    }
+  ],
+  "text:sagar jaisi aankhe": [
+    {
+      "type": "text",
+      "data": "Koyal jaisi boli"
+    }
+  ],
+  "text:thk h phr return gift le lo": [
+    {
+      "type": "text",
+      "data": "No thanks"
+    }
+  ],
+  "text:no thanks": [
+    {
+      "type": "text",
+      "data": "Jaau n Krna tag hme"
+    }
+  ],
+  "text:kilas gyi kya": [
+    {
+      "type": "text",
+      "data": "Chup kro baat nahi kr rhe h to chup baitho bakwas nhi psnd"
+    },
+    {
+      "type": "text",
+      "data": "Chali gayi wo rhne do"
+    },
+    {
+      "type": "text",
+      "data": "Ka hau"
+    }
+  ],
+  "text:jaau n krna tag hme": [
+    {
+      "type": "text",
+      "data": "Hum kbhi kisiko tag nhi krte"
+    }
+  ],
+  "text:chup kro baat nahi kr rhe h to chup baitho bakwas nhi psnd": [
+    {
+      "type": "text",
+      "data": "Dushro ka bakwas nhi psnd❎ khud ka bkwas psnd h ✅"
+    }
+  ],
+  "sticker:BAADBQADYREAAkyqyFT-1EWE6hMqcwI": [
+    {
+      "type": "text",
+      "data": "Sudhar ja be"
+    }
+  ],
+  "text:chali gayi wo rhne do": [
+    {
+      "type": "text",
+      "data": "Ladai krne nh aata h"
+    }
+  ],
+  "text:ka hau": [
+    {
+      "type": "text",
+      "data": "Kon??"
+    }
+  ],
+  "text:kon??": [
+    {
+      "type": "text",
+      "data": "Kya kom"
+    }
+  ],
+  "text:ladai krne nh aata h": [
+    {
+      "type": "text",
+      "data": "Chill yrr rhne do yaha q lare kisi se jb"
+    }
+  ],
+  "text:chill yrr rhne do yaha q lare kisi se jb": [
+    {
+      "type": "text",
+      "data": "So ja"
+    }
+  ]
+}
