@@ -101,6 +101,29 @@ async def database(event):
     )
     await event.respond(msg)
 
+@bot.on(events.NewMessage(pattern="/backup"))
+async def backup(event):
+    if event.sender_id != OWNER_ID:
+        return await event.respond("❌ You are not authorized to use this command.")
+
+    try:
+        if os.path.exists(MEMORY_FILE):
+            confirm_msg = await event.respond("📤 Sending database file to owner...")
+            await bot.send_file(
+                OWNER_ID,
+                MEMORY_FILE,
+                caption="🧠 *Bot Memory Backup File*\nHere is the latest `chat_memory.json`.",
+                force_document=True
+            )
+            await confirm_msg.edit("✅ Backup sent to owner.")
+        else:
+            await event.respond("⚠️ No database file found to backup.")
+    except Exception as e:
+        error_msg = f"❌ Failed to send backup: `{str(e)}`"
+        await event.respond(error_msg)
+        await bot.send_message(OWNER_ID, f"❌ Backup error: {str(e)}")
+
+
 # /remove_msg command
 @bot.on(events.NewMessage(pattern="/remove_msg"))
 async def remove_msg(event):
