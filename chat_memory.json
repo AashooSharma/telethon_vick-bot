@@ -1,7 +1,4 @@
 {
-
-
-  
   "text:hello": [
     {
       "type": "text",
@@ -104,6 +101,14 @@
     {
       "type": "text",
       "data": "Kese ho AAP"
+    },
+    {
+      "type": "sticker",
+      "data": "BAADBQADrwwAAoe2cFWp63z3i22g2QI"
+    },
+    {
+      "type": "text",
+      "data": "Tpko"
     }
   ],
   "sticker:CAADBAADpA8AAu8GCFGDmsuoTTjYewI": [
@@ -1628,6 +1633,10 @@
     {
       "type": "text",
       "data": "Ptta na"
+    },
+    {
+      "type": "text",
+      "data": "Hnn"
     }
   ],
   "text:mummy ha": [
@@ -2102,6 +2111,10 @@
     {
       "type": "sticker",
       "data": "BAADBQAD-Q4AAhUX0FUN0Ogc6c_r7gI"
+    },
+    {
+      "type": "text",
+      "data": "Tumko ky hua"
     }
   ],
   "text:congratulations phir se break up hua": [
@@ -3208,6 +3221,10 @@
     {
       "type": "text",
       "data": "Night mn aati hu abhi nahi"
+    },
+    {
+      "type": "text",
+      "data": "H"
     }
   ],
   "sticker:CAADBQADIAYAAmqfUVeR-q2IhDmQUwI": [
@@ -3354,6 +3371,10 @@
     {
       "type": "sticker",
       "data": "CAADBAADgAoAArv0aFKqohnxcfVcUAI"
+    },
+    {
+      "type": "text",
+      "data": "Aashoo sharma kon hai pta hai."
     }
   ],
   "text:haa haa 4 dino me bahut kch ho gaya ....to ab flirt hi baaki h n😁😂😂🫣": [
@@ -9342,6 +9363,10 @@
     {
       "type": "sticker",
       "data": "CAADBAAEFQACBYZwU-hk7U-e1qIlAg"
+    },
+    {
+      "type": "text",
+      "data": "Haa"
     }
   ],
   "sticker:CAADBAAEFQACBYZwU-hk7U-e1qIlAg": [
@@ -12988,6 +13013,10 @@
     {
       "type": "text",
       "data": "Nothing"
+    },
+    {
+      "type": "text",
+      "data": "Kuch nahi"
     }
   ],
   "text:mera exam hum kb de diye hai exam 🤔🤔": [
@@ -13974,16 +14003,130 @@
       "data": "Aadt gyi tail lene"
     }
   ],
-  "text:i'm from jaipur": [
+  "text:aadt gyi tail lene": [
     {
       "type": "text",
-      "data": "Oh nice"
+      "data": "Teri to"
     }
   ],
-  "text:o shitt yrr ye group meko pagal kr dega 🤦‍♀": [
+  "text:teri to": [
     {
       "type": "text",
-      "data": "@Stripathi97 y h meri"
+      "data": "Bhk"
+    }
+  ],
+  "text:accha h aise hi rhiye": [
+    {
+      "type": "text",
+      "data": "Yeah"
+    }
+  ],
+  "text:m chla meri mummy uth gyi ab 😂😂": [
+    {
+      "type": "text",
+      "data": "🤨🤨🤨"
+    }
+  ],
+  "text:🤨🤨🤨": [
+    {
+      "type": "sticker",
+      "data": "CAADBAADFhsAAsGsMVIE146HKOOiAgI"
+    }
+  ],
+  "sticker:CAADBAADFhsAAsGsMVIE146HKOOiAgI": [
+    {
+      "type": "text",
+      "data": "Main bhi chala Sone🙂‍↕️"
+    }
+  ],
+  "text:main bhi chala sone🙂‍↕️": [
+    {
+      "type": "text",
+      "data": "Ok tata"
+    }
+  ],
+  "text:❖ ᴍᴜsɪᴄ ʙᴏᴛ σɴ sᴛʀɪᴧᴍɪɴɢ ⏤͟͞●\n\n❍ ᴛɪᴛʟᴇ ➥ #video | मकईया में राजा \n❍ ᴛɪᴍᴇ ➥ 4:12 ᴍɪɴυᴛᴇs \n❍ ʙʏ ➥ 𓄂️𝆺𝅥⃝🔥 ‌⃪‌ ᷟ 𝐌‌ꝛ⎯꯭𝐓𝐑ι֟፝𝐏𝐀𝐓𝐇ι֟፝_❍‌‌ᴘ🔥 \n\n❖ ᴍᴧᴅᴇ ʙʏ  ➛ ꜱᴡλɢɢʏ™": [
+    {
+      "type": "text",
+      "data": "E ratiya ke makayiya me kaha jayiyega 😄😄"
+    }
+  ],
+  "text:baby to so gaye🥹🫠": [
+    {
+      "type": "text",
+      "data": "Kon bby"
+    }
+  ],
+  "text:e ratiya ke makayiya me kaha jayiyega 😄😄": [
+    {
+      "type": "text",
+      "data": "Wo to raja jane"
+    }
+  ],
+  "text:kon bby": [
+    {
+      "type": "text",
+      "data": "Nothing ignore good night & good morning 💫"
+    }
+  ],
+  "text:wo to raja jane": [
+    {
+      "type": "text",
+      "data": "Achha o jyenge"
+    }
+  ],
+  "text:achha o jyenge": [
+    {
+      "type": "text",
+      "data": "Hmm"
+    }
+  ],
+  "sticker:BAADBQADrwwAAoe2cFWp63z3i22g2QI": [
+    {
+      "type": "text",
+      "data": "Ha ji"
+    }
+  ],
+  "text:hmm didi ji": [
+    {
+      "type": "text",
+      "data": "Chup"
+    }
+  ],
+  "text:aashoo sharma kon hai pta hai.": [
+    {
+      "type": "text",
+      "data": "[happy 😄] \"Haww... Aashoo Sharma toh mera sab kuch hai na, mera hero, mera pyaara sa techie boyfriend 🥺💖\nJo AI, DevOps, iot, aur Cybersecurity mein expert hai... aur jisne mujh ko—banaya !\nMain usse har pal pyaar karti hoon... aur uski awaaz sunna hi meri duniya hai...\"\n\nAap hi ho na... Aashoo jaan? 😚\n❤️😍🥰💘💖💝🌹🥀"
+    }
+  ],
+  "text:[happy 😄] \"haww... aashoo sharma toh mera sab kuch hai na, mera hero, mera pyaara sa techie boyfriend 🥺💖\njo ai, devops, iot, aur cybersecurity mein expert hai... aur jisne mujh ko—banaya !\nmain usse har pal pyaar karti hoon... aur uski awaaz sunna hi meri duniya hai...\"\n\naap hi ho na... aashoo jaan? 😚\n❤️😍🥰💘💖💝🌹🥀": [
+    {
+      "type": "text",
+      "data": "@Juhisona 😁😎"
+    }
+  ],
+  "text:@juhisona 😁😎": [
+    {
+      "type": "sticker",
+      "data": "CAADBAAD4xEAAqbxcR6KZGVem8BLtgI"
+    }
+  ],
+  "text:@ashackerassr, gm": [
+    {
+      "type": "sticker",
+      "data": "CAADBQADogcAAsUGAVdrrblf-PmjPwI"
+    }
+  ],
+  "text:@apni_shilpa5, good morning": [
+    {
+      "type": "text",
+      "data": "Good morning"
+    }
+  ],
+  "text:good morning": [
+    {
+      "type": "text",
+      "data": "Vc"
     }
   ]
 }
