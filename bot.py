@@ -65,7 +65,7 @@ async def help_cmd(event):
         "`/database` – Show memory statistics"
     )
 
-@bot.on(events.NewMessage(pattern="/info"))
+@bot.on(events.NewMessage(pattern="/id"))
 async def id_cmd(event):
     sender = await event.get_sender()
     chat = await event.get_chat()
