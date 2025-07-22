@@ -65,6 +65,27 @@ async def help_cmd(event):
         "`/database` – Show memory statistics"
     )
 
+@bot.on(events.NewMessage(pattern="/id"))
+async def id_cmd(event):
+    sender = await event.get_sender()
+    chat = await event.get_chat()
+    msg = event.message
+
+    text = (
+        "🆔 **ID Info**\n\n"
+        f"👤 **Your ID:** `{sender.id}`\n"
+        f"💬 **Chat ID:** `{event.chat_id}`\n"
+        f"📩 **Message ID:** `{msg.id}`"
+    )
+
+    if event.is_reply:
+        reply_msg = await event.get_reply_message()
+        reply_sender = await reply_msg.get_sender()
+        text += f"\n\n📎 **Replied User ID:** `{reply_sender.id}`"
+
+    await event.respond(text)
+
+
 # /update command (admin only)
 @bot.on(events.NewMessage(pattern="/update"))
 async def update(event):
